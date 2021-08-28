@@ -10,9 +10,9 @@ tags:
 Parent: [SLAM Index](slam-index.md)
 Backlinks: [SA TODO](sa-todo.md)
 
-General
-[IMU](imu.md)
-[Odometry](odometry.md)
+**General**
+* [IMU](imu.md)
+* [Odometry](odometry.md)
 [Why use the visual-inertial sensor combination?](why-use-the-visual-inertial-sensor-combination_.md)
 [IMU to camera coordinate transformations](imu-to-camera-coordinate-transformations.md)
 
