@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>software/SOFA/plugins on</title><link>https://salehahr.github.io/tags/software/SOFA/plugins/</link><description>Recent content in software/SOFA/plugins on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://salehahr.github.io/tags/software/SOFA/plugins/index.xml" rel="self" type="application/rss+xml"/><item><title>Install ROSConnector in SOFA</title><link>https://salehahr.github.io/studienarbeit/install-rosconnector-in-sofa/</link><pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate><guid>https://salehahr.github.io/studienarbeit/install-rosconnector-in-sofa/</guid><description>Parent: SofaPython Index http://github.com/sofa-framework/SofaROSConnector Documentation (outdated for current SOFA version 20.06.00)
+http://www.sofa-framework.org/community/forum/topic/error-configuring-cmake-sofarosconnector/ Pending answer. Last reply 10th July 2020.
+Alternative using SoftRobots: &amp;lt;http://www.sofa-framework.org/community/forum/topic/error-with-plugins-with-sofarosconnector/
+post-15665&amp;gt; http://project.inria.fr/softrobot/</description></item><item><title>STLIB (Sofa Template Library)</title><link>https://salehahr.github.io/studienarbeit/stlib-sofa-template-library/</link><pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate><guid>https://salehahr.github.io/studienarbeit/stlib-sofa-template-library/</guid><description>Parent: SofaPython Index http://github.com/SofaDefrost/STLIB
+API doc: http://stlib.readthedocs.io/en/latest/index.html
+contains sofa scene template common scene template used regularly templates should be compatible with .pyscn and PSL scenes</description></item><item><title>Possible plugins</title><link>https://salehahr.github.io/studienarbeit/possible-plugins/</link><pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate><guid>https://salehahr.github.io/studienarbeit/possible-plugins/</guid><description>Parent: Scope of Studienarbeit , sofapython-index Communication
+ZMQCommunication someone&amp;rsquo;s own plugin Optical system
+OptiTrackNatNet Mesh geometry/topology
+CGALPlugin (computational geometry algorithms) Haptic
+Haptics with Geomagic &amp;ndash; requires Geomagic probe, but code/intro may be useful SofaHaptics Haption Flexible - for deformations Sensable Robot arm
+SoftRobots ROS Connector  too complicated Scenes
+STLIB (Sofa Template Library) Registration</description></item></channel></rss>
