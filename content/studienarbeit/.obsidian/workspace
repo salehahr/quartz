@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "2b78973de9b3c7d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0621c62829cdf4ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kidnapped robot problem.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c88f4b9a470d79e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a744563944f7ba12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd55a5121bfe61b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ffecc11a47ca52d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#feature-maps",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5
+  },
+  "right": {
+    "id": "6bbdbc58547f539f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd34ba0e47960322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "135a87913e2e0c22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kidnapped robot problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8f50991dc2bfa2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fe138c78b65e4f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kidnapped robot problem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0621c62829cdf4ec",
+  "lastOpenFiles": [
+    "Kidnapped robot problem.md",
+    "Feature maps.md",
+    "30. ENDOSCOPES --------------------------.md",
+    "[Jeon 2009] Kinematic Kalman Filter for Robot End-Effector Sensing.md",
+    "50.7.2 Calculation of K and P in ESKF update.md",
+    "50.2.40 Kalman filter performance metric.md",
+    "50.2.3 Kalman filter initial estimates.md",
+    "Introduction to theKalman Filter - Resourcium.md",
+    "Untitled.md",
+    "Diagnosis bladder cancer.md"
+  ]
+}
