@@ -1,0 +1,32 @@
+{{define "head"}}
+{{ partial "head.html" . }}
+{{end}}
+
+{{ define "main" }}
+<main>
+<div class="singlePage">
+    <header>
+        <h1>{{.Title}}</h1>
+    </header>
+
+    <article>
+    <ol>
+    
+    {{ $pages := slice }}
+
+    {{ range .Pages }}
+      {{ $pages = $pages | append (dict "page" . "file_path" .File.Path) }}
+    {{ end }}
+    
+    {{ range sort $pages "file_path" }}
+        <li>
+            <a href="{{.page.Permalink}}">{{.page.Title}}</a>
+        </li>
+    {{ end }}
+    </ol>
+    </article>
+    
+    {{partial "footer.html" .}}
+</div>
+</main>
+{{ end }}

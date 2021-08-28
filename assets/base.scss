@@ -200,6 +200,14 @@ a[href^="/"] {
   }
 }
 
+.listPage {
+  margin: 4em 30vw;
+
+  @media all and (max-width: 1200px) {
+    margin: 25px 5vw;
+  }
+}
+
 .page-end {
   display: flex;
   flex-direction: row;
