@@ -22,8 +22,7 @@ Relative
 
 Absolute
 [Sensors (absolute measurements) for measuring distance to landmarks](sensors (absolute measurements)-for-measuring-distance-to-landmarks.md)
-[Visual sensors for localisation](visual-sensors-for-localisation.md)
-  [Monocular depth perception](monocular-depth-perception.md)
+[Visual sensors for localisation](visual-sensors[Monocular depth perception](permanent/10-monocular-depth-perception.md)ular-depth-perception.md)
 
 [Pinhole camera model](pinhole-camera-model.md)
 

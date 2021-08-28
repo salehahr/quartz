@@ -26,5 +26,5 @@ Orientation parametrisations
 | [Unit quaternions](unit-quaternions.md) | not unique, -q and q depict the same orientation<br>Proof: <http://math.stackexchange.com/questions/2016282/negative-quaternion> |
 | [Gibbs / Rodrigues parameter](gibbs-_-rodrigues-parameter.md) | infinite for 180 degree rotations, but 1:1 mapping between itself and unit quaternions |
 
-Next: [Which orientation parametrisation to choose?](which-orientation-parametrisation-to-choose_.md)
+Next: [Which orientation parametrisation to choose?](permanent/20.4-which-orientation-parametrisation-to-choose.md)
 

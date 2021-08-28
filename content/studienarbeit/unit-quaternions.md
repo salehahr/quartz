@@ -6,12 +6,12 @@ tags:
   - math/quaternions
 ---
 
-Parent: [Quaternion index](quaternion-index.md), [orientation-parametrisations](orientation-parametrisations.md)
-Backlinks: [Variables in ESKF](variables-in-eskf.md), [quaternion to rotation matrix](quaternion-to-rotation-matrix.md), [gibbs /-rodrigues-parameter](gibbs-_-rodrigues-parameter.md)
+**Parent**: [Quaternion index](quaternion-index.md), [orientation-parametrisations](orientation-parametrisations.md)
+**Backlinks**: [Variables in ESKF](variables-in-eskf.md), [quaternion to rotation matrix](quaternion-to-rotation-matrix.md), [gibbs /-rodrigues-parameter](gibbs-_-rodrigues-parameter.md), [Which orientation parametrisation to choose](permanent/20.4-which-orientation-parametrisation-to-choose.md)
 
-Source: [Solà 2017 Quaternion kinematics for ESKF](solà-2017-quaternion-kinematics-for-eskf.md)
+**Source**: [Solà 2017 Quaternion kinematics for ESKF](solà-2017-quaternion-kinematics-for-eskf.md)
 
-Properties
+## Properties
 
 *   ![unknown_filename.png](./_resources/Unit_quaternions.resources/unknown_filename.png)
 *   ![unknown_filename.1.png](./_resources/Unit_quaternions.resources/unknown_filename.1.png)

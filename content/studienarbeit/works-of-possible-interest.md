@@ -23,7 +23,7 @@ Existing SLAM algorithms
 - [x] MonoSLAM, works by Andrew Davison focusing on fusion instead of vision-only SLAM
 - [x] Maplab (filtering-based) not looking at filtering-based algos
 
-*   mentioned in the [Chen 2018 Review of VI SLAM](chen-2018-review-of-vi-slam.md) paper
+*   mentioned in the [Chen 2018 Review of VI SLAM](studienarbeit/chen-2018-review.md) paper
 
 - [ ] ORB-SLAM paper — ORB features
 - [x] [VIORB](http://www.evernote.com/shard/s484/nl/217355218/014a8f28-8f7b-4178-aea8-c65f9ae1dd73) implementation

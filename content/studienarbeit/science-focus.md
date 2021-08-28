@@ -8,7 +8,9 @@ tags:
   - vision
 ---
 
-Source: <http://www.sciencefocus.com/the-human-body/how-can-one-eye-alone-provide-depth-perception/>
+**Backlinks** [Monocular depth perception](permanent/10-monocular-depth-perception.md)
+
+**Source**: <http://www.sciencefocus.com/the-human-body/how-can-one-eye-alone-provide-depth-perception/>  
 **Author**: Hilary Guite
 
 *   In humans with normal binocular vision, depth perception is obtained using the [parallax](parallax.md) in the two overlapping fields of vision ("binocular disparity")

@@ -9,8 +9,8 @@ tags:
   - -sa/to-be-processed
 ---
 
-Source: <http://www.mdpi.com/2218-6581/7/3/45>
-Backlinks
+**Source**: <http://www.mdpi.com/2218-6581/7/3/45>
+**Backlinks**: [10-monocular-depth-perception](permanent/10-monocular-depth-perception.md)
 
 Authors: Chen et. al
 Abstract
@@ -43,7 +43,7 @@ Optimisation-based:
 
 *   front- vs back-end division (map construction vs pose optimisation)
 *   Loop closure (odometry-based or appearance-based), preintegration
-*   Algorithms: OKVIS (stereo), [VIORB](http://www.evernote.com/shard/s484/nl/217355218/014a8f28-8f7b-4178-aea8-c65f9ae1dd73), VINS-mono
+*   Algorithms: OKVIS (stereo), [VIORB](mur-artal-2017-vi-orb), VINS-mono
 
 Takeaway
 

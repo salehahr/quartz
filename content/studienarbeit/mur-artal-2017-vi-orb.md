@@ -10,7 +10,7 @@ tags:
   - SLAM/algos/VIORB
 ---
 
-Backlinks: [Chen 2018 Review of VI SLAM](chen 2018 review of vi slam.md), [keyframe-based tightly-coupled multisensor slam](keyframe-based tightly-coupled multisensor slam.md), [todo](todo.md), [works of-possible-interest](works-of-possible-interest.md)
+Backlinks: [Chen 2018 Review of VI SLAM](chen-2018-review.md), [keyframe-based tightly-coupled multisensor slam](keyframe-based tightly-coupled multisensor slam.md), [todo](todo.md), [works of-possible-interest](works-of-possible-interest.md)
 
 URL: <http://ieeexplore.ieee.org/abstract/document/7817784>,
 Authors: Mur-Artal, Tardós

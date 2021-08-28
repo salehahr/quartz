@@ -1,0 +1,30 @@
+---
+title: Endoscopes
+date: "2021-07-21"
+tags:
+  - to-do
+  - misc
+  - -sa/processing
+  - -master/thesis
+  - -permanent
+  - medical/surgery/endoscope
+---
+
+**Backlinks**: [Leiner](studienarbeit/leiner.md)
+
+Endoscopy and bladder cancery surgery
+- [ ] Relate endoscopy to bladder cancery surgery ...
+
+Procedure:
+
+1.  Cystoscopy to inspect the bladder
+2.  If tumour is found, do resection --> cryosection
+3.  Cancer detected --> tumour removal
+
+[Endoscopy](permanent/30.1.1-endoscopy.md)
+[Endoscopes (general)](permanent/30.1.2-endoscope.md)
+[Types of endoscopes](permanent/30.1.2.1-types-of-endoscopes.md)
+
+[Endoscope system components](studienarbeit/30.1.2.2-endoscope-system-components.md)
+[Endoscope specification](studienarbeit/30.1.2.3-endoscope-specification.md)
+

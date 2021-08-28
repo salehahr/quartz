@@ -1,14 +1,14 @@
 ---
-title: 10. Monocular depth perception
+title: Monocular depth perception
 date: "2021-05-17"
 tags:
   - -sa/processed
   - vision
   - -permanent
+  - -published
 ---
 
-Parent: [SLAM Index](slam-index.md)
-Backlinks: [Thesis](thesis.md)
+**Parent**: [Permanent notes](permanent/_index.md), [SLAM Index](../studienarbeit/slam-index.md)
 
 Depth perception in real life
 
@@ -16,10 +16,10 @@ Depth perception in real life
     (Some exceptions: fruit bats, killer whales)
     
 *   We perceive depth, or distance to the objects that we see, based on several visual cues.
-    *   One of the cues is the [parallax](parallax.md) in the two overlapping fields of vision, or the 'binocular disparity'. [science-focus](science-focus.md)
+    *   One of the cues is the [parallax](../studienarbeit/parallax.md) in the two overlapping fields of vision, or the 'binocular disparity'. ([Science Focus](../studienarbeit/science-focus.md))
     *   However, even if vision is impaired in one eye, a human can still perceive depth by using non-binocular visual cues.
-    *   In fact, according to [Chen 2018](chen-2018.md), "a typical human uses 14 visual cues to perceive depth, only 3/14 are binocular vision related."
-*   Some of the monocular cues that the brain uses: [Science Focus](science-focus.md)
+    *   In fact, according to ([Chen 2018](../studienarbeit/chen-2018-review.md)), "a typical human uses 14 visual cues to perceive depth, only 3/14 are binocular vision related."
+*   Some of the monocular cues that the brain uses: [Science Focus](../studienarbeit/science-focus.md)
 
 1.  We know the real size of things
 2.  Using perspective, e.g. parallel lines converging to a perspective point
@@ -28,9 +28,9 @@ Depth perception in real life
 Depth perception in computer vision
 
 *   Depth is not recoverable from a single camera image.
-*   This is called the "scale availability issue." s. [monocular cameras](monocular-cameras.md), whereby the scale is the factor that relates the estimated camera position to the real camera position
+*   This is called the "scale availability issue." s. [monocular cameras](../studienarbeit/monocular-cameras.md), whereby the scale is the factor that relates the estimated camera position to the real camera position
 *   To work around this, there are several options, such as using stereo or RGBD cameras.
 *   However, even if we are restricted to monocular cameras, using similar depth cues such as those used by the human brain in monocular vision can help recover scale.
     *   Some algorithms compare the obtained visual measurements to an object of known scale, e.g. using a calibration checkerboard
-    *   Other algorithms make use of motion parallax, e.g. the [DefSLAM initialisation](defslam-initialisation.md)
+    *   Other algorithms make use of motion parallax, e.g. the [DefSLAM initialisation](../studienarbeit/initialisation-of-monocular-slam.md)
 

@@ -10,7 +10,7 @@ Parents: [Rotations / SO(3) group index](rotations _ so(3)-group-index.md), [ori
 See also: [Rotation vector representation](rotation-vector-representation.md)
 **Backlinks**: [Gibbs / Rodrigues parameter representation for rotations](gibbs _-rodrigues-parameter-representation-for-rotations.md)
 
-Source: [Markley Fundamentals of Spacecraft Attitude Determination](markley-fundamentals-of-spacecraft-attitude-determination.md)
+Source: [Markley 2014](markley-2014.md)
 
 3 parameters:
 

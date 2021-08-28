@@ -1,7 +1,6 @@
 ---
 title: Thesis
 date: "2020-09-23"
-external_url: https://gepris.dfg.de/gepris/projekt/409474577?language=en
 tags:
   - to-do/to-archive
   - -sounding-board
@@ -11,10 +10,10 @@ tags:
   - -master/thesis
 ---
 
-Parent: [Scope of Studienarbeit](Scope of Studienarbeit.md)
-See also: [Schönheitsfehler](Schönheitsfehler.md), [Tex stuff](Tex stuff.md), [Spelling](Spelling.md), [Notes on current thesis version](Notes on current thesis version.md), [Fact checks](Fact checks.md)
+Parent: [Scope of Studienarbeit](scope-of-Studienarbeit.md)
+See also: [Schönheitsfehler](schoenheitsfehler.md), [Tex stuff](tex-stuff.md), [Spelling](Spelling.md), [Notes on current thesis version](notes-on-current-thesis-version.md), [Fact checks](fact-checks.md)
 
-**\*\*TO BE RESTRUCTURED\*\*** s. [Thesis restructure](Thesis restructure.md)
+**\*\*TO BE RESTRUCTURED\*\*** s. [Thesis restructure](thesis-restructure.md)
 
 Introduction
 
@@ -29,7 +28,7 @@ Introduction
     *   filt-based, opt-based 
     *   DefSLAM
     *   use of ORB features in def. envs
-    *   other papers on SLAM for deformable envs e.g. MIS-SLAM (Chen), Song
+    *   other papers on SLAM for deformable envs e.g. MIS-SLAM ([Chen](./chen-2018-mis-slam.md)), Song
     *   [ ] ORB-SLAM3 in lit review
 *   Contribution of my Studienarbeit (deformable tracking using vision+IMU)
 *   Structure of the thesis, notation etc.
@@ -49,8 +48,7 @@ Grundlagen/Theoretical framework
 *   Sensors in SLAM
     *   Camera
     *   IMU
-*   Monocular visual SLAM: problem: depth info
-    s.  [Monocular depth perception](Monocular depth perception.md)
+*   Monocular visual SLAM: problem: depth info, s. [monocular depth perception](permanent/10-monocular-depth-perception.md)  
     
 *   Computer vision
     *   Descriptors: ORB, etc.

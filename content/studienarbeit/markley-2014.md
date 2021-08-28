@@ -39,7 +39,7 @@ Modified Rodrigues parameters
 [Rotation error representation](rotation-error-representation.md)
 
 Filtering
-[Which orientation parametrisation to choose?](which-orientation-parametrisation-to-choose_.md)
+[Which orientation parametrisation to choose?](permanent/20.4-which-orientation-parametrisation-to-choose.md)
 [Additive quaternion filtering](additive-quaternion-filtering.md)
 [Error-State Kalman Filter](error-state kalman-filter.md) / [multiplicative-quaternion-filtering](multiplicative-quaternion-filtering.md)
 
