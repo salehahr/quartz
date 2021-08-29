@@ -22,3 +22,25 @@
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
 }
+
+.backlinks-container {
+    & > ul {
+
+      & > li {
+        display: inline;
+      }
+
+      & > li:after {
+        content: ", ";
+      }
+
+      & > li:last-child:after {
+        content: "";
+      }
+    }
+}
+
+// Remove space between h3 and list
+h3 + ul {
+    margin-top: -10px;
+}

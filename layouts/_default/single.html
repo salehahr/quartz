@@ -13,6 +13,11 @@
         <div class="spacer"></div>
         {{partial "darkmode.html" .}}
     </header>
+
+    <div class="backlinks-container">
+        {{partial "backlinks.html" .}}
+    </div>
+
     <article>
         {{if $.Site.Data.config.enableToc}}
         <aside class="mainTOC">
