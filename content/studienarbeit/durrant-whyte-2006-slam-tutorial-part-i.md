@@ -7,7 +7,7 @@ tags:
   - -sa/to-be-processed
 ---
 
-**Backlinks**: [Works of possible interest](works-of-possible-interest.md)
+**Backlinks**: [Works of possible interest](bibliography/works-of-interest.md)
 
 Authors: Bailey, Durrant-Whyte
 

@@ -7,7 +7,7 @@ tags:
   - -sa/to-be-processed
 ---
 
-**Source**: [Mur-Artal 2017 VI-ORB](mur-artal-2017-vi-orb.md)
+**Source**: [Mur-Artal 2017 VI-ORB](bibliography/mur-artal-2017-vi-orb.md)
 
 Tracking in VIORB
 

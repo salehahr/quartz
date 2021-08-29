@@ -6,7 +6,7 @@ tags:
   - SLAM/algos/VIORB
 ---
 
-Source: [Mur-Artal 2017 VI-ORB](mur-artal-2017-vi-orb.md)
+Source: [Mur-Artal 2017 VI-ORB](bibliography/mur-artal-2017-vi-orb.md)
 
 Mapping in VIORB
 Previously in ORBSLAM (only poses are optimised):

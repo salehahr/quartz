@@ -7,7 +7,7 @@ tags:
   - -sa/processed
 ---
 
-Parent: [SLAM Index](slam-index.md), [geometric-metric-slam](geometric-metric-slam.md)
+Parent: [SLAM Index](SLAM/slam_index.md), [geometric-metric-slam](geometric-metric-slam.md)
 
 Source: [Cometlabs What You Need to Know About SLAM](cometlabs what you-need-to-know-about-slam.md)
 

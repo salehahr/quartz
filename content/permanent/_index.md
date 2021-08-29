@@ -1,10 +1,10 @@
 ---
 title: Permanent notes
 tag:
-- -permanent
-- -sa/processing
+- -published/meta
 aliases:
 - /permanent/_index/
+has_content: True
 ---
 
 1. [Monocular depth perception](permanent/10-monocular-depth-perception.md)

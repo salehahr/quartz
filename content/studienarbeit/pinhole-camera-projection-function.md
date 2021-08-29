@@ -9,7 +9,7 @@ tags:
 Backlinks: [Pinhole camera model](pinhole-camera-model.md)
 See also: [World to camera trafo](world-to-camera-trafo.md)
 
-Source: [Mur-Artal 2017 VI-ORB](mur-artal-2017-vi-orb.md)
+Source: [Mur-Artal 2017 VI-ORB](bibliography/mur-artal-2017-vi-orb.md)
 3D points
 ![unknown_filename.2.png](./_resources/Pinhole_camera_projection_function.resources/unknown_filename.2.png)
 

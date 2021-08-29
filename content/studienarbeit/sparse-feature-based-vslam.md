@@ -6,12 +6,12 @@ tags:
   - -sa/processed
 ---
 
-Parent: [Visual SLAM Implementation Framework](visual-slam-implementation-framework.md), [slam-index](slam-index.md)
+Parent: [Visual SLAM Implementation Framework](SLAM/vslam-framework.md), [slam_index](SLAM/slam_index.md)
 See also: [Feature-based vs direct SLAM workflow](feature-based-vs-direct-slam-workflow.md)
 
 Source: [Cometlabs What You Need to Know About SLAM](cometlabs what you-need-to-know-about-slam.md)
 
-*   Front-end part of the [Visual SLAM Implementation Framework](visual-slam-implementation-framework.md)
+*   Front-end part of the [Visual SLAM Implementation Framework](SLAM/vslam-framework.md)
 *   Use only a small selected subset of the pixels in an image frame
 *   [Feature maps](feature-maps.md) generated are point clouds --> used to track the camera pose
 *   Requires feature extraction and [matching](matching.md)

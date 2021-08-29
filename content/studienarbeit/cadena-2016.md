@@ -17,7 +17,7 @@ Abstract
 *   "This paper simultaneously serves as a position paper and tutorial to those who are users of SLAM"
 
 Recommended other works
-s. [Works of possible interest](works-of-possible-interest.md)
+s. [Works of possible interest](bibliography/works-of-interest.md)
 
 Contents/Chapters
 Takeaway

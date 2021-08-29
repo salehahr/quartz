@@ -7,7 +7,7 @@ tags:
   - discussion/2020/2020-12
 ---
 
-Parent: [SLAM Index](slam-index.md)
+Parent: [SLAM Index](SLAM/slam_index.md)
 
 Source: <http://towardsdatascience.com/bag-of-visual-words-in-a-nutshell-9ceea97ce0fb>
 

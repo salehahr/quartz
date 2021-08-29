@@ -6,7 +6,7 @@ tags:
   - -sa/processed
 ---
 
-Parent: [Filter localisation methods](filter-localisation-methods.md)
+Parent: [Filter localisation methods](SLAM/filter-localisation-methods.md)
 
 Source: [Wikipedia Lokalisierung](wikipedia-lokalisierung.md)
 Particle filter / Monte Carlo localisation / sequential Monte Carlo methods
@@ -18,7 +18,7 @@ Particle filter / Monte Carlo localisation / sequential Monte Carlo methods
     *   Increases and decreases the probabilities of each particle accordingly
     *   When a lower probability threshold is exceeded, the particle is not considered any longer
 
-Source: [Scaradozzi 2018 SLAM application in surgery](scaradozzi-2018-slam-application-in-surgery.md)
+Source: [Scaradozzi 2018 SLAM application in surgery](studienarbeit/scaradozzi-2018.md)
 **Particle filters (sequential Monte Carlo)**
 
 *   Posterior representation: particles (set of random state samples)

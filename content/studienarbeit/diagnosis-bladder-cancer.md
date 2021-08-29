@@ -3,7 +3,6 @@ title: Diagnosis bladder cancer
 date: "2021-07-30"
 tags:
   - -resources
-  - -master/thesis
   - -sa/to-be-processed
 ---
 

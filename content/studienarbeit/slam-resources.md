@@ -8,7 +8,7 @@ tags:
   - -resources/tutorials
 ---
 
-Parent: [SLAM Index](slam-index.md)
+Parent: [SLAM Index](SLAM/slam_index.md)
 
 Theory
 

@@ -54,7 +54,7 @@ tags:
 *   Sensors for VI-SLAM
 *   DefSLAM (deformable environment)
 *   other papers on SLAM for deformable envs e.g. MIS-SLAM ([Chen](studienarbeit/chen-2018-mis-slam.md)), Song
-*   [Works of possible interest](bibliography/works-of-possible-interest.md)
+*   [Works of possible interest](bibliography/works-of-interest.md)
 *   Computer vision
     *   Descriptors: ORB, etc.
         *   Use of ORB for deformable envs.

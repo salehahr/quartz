@@ -10,4 +10,4 @@ tags:
 *   [ ] Duration of cryosection
 *   [ ] GRK stuff
 *   [ ] SLAM rigidity assumption
-*   [x] [Camera IMU complementarity](studienarbeit/why-use-the-visual-inertial-sensor-combination-.md)
+*   [x] [Camera IMU complementarity](SLAM/why-use-the-visual-inertial-sensor-combination.md)

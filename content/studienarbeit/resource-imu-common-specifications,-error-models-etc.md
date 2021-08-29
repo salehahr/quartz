@@ -8,7 +8,7 @@ tags:
   - -sa/to-be-processed
 ---
 
-Parent: [IMU](imu.md)
+Parent: [IMU](sensors/imu.md)
 Source: <http://www.vectornav.com/resources/imu-specifications>
 
 IMU common specifications, bias, scale factor, orthogonality errors, and acceleration sensitivity for gyroscopes.

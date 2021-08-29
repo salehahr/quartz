@@ -9,7 +9,7 @@ tags:
 ---
 
 Source: [http://en.wikipedia.org/wiki/Simultaneous\_localization\_and\_mapping](http://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
-Parents: [SLAM Index](slam-index.md), [slam-resources](slam-resources.md)
+Parents: [SLAM Index](SLAM/slam_index.md), [slam-resources](slam-resources.md)
 
 Different types of sensors give rise to different SLAM algorithms whose assumptions are most appropriate to the sensors.
 
