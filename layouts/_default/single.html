@@ -14,17 +14,22 @@
         {{partial "darkmode.html" .}}
     </header>
 
-    <div class="backlinks-container">
-        {{partial "backlinks.html" .}}
-    </div>
-
     <article>
+        <div class="backlinks-container">
+            {{partial "backlinks.html" .}}
+        </div>
+
         {{if $.Site.Data.config.enableToc}}
         <aside class="mainTOC">
             <h3>Table of Contents</h3>
             {{ .TableOfContents }}
         </aside>
         {{end}}
+    </article>
+
+    <hr>
+
+    <article>
         {{- .Content -}}
     </article>
     {{partial "footer.html" .}}
