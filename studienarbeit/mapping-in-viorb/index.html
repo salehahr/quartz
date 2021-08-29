@@ -10,6 +10,6 @@ Previously in ORBSLAM (only poses are optimised):
 <img src=./_resources/Mapping_in_VIORB.resources/unknown_filename.png alt=unknown_filename.png></p><p>Now in VIORB, more states to optimise:
 <img src=./_resources/Mapping_in_VIORB.resources/unknown_filename.1.png alt=unknown_filename.1.png></p><p>Increase in complexity</p><ul><li>more states to optimise (v, b)</li><li>IMU measurements creates constraints between keyframes</li></ul><p>Original ORBSLAM discards redundants KFs (poses a problem with IMU constraints!)
 Workaround: in local BA, only allow discarding of KF if, after discarding, the time between two consecutive KFs is short enough (&lt;= 0.5s)
-Further: in full BA (after loop closure, or any time for map refinement), only allow time between KFs to be &lt;= 3s (to reduce IMU noise integration)</p></article><hr><div class=page-end><div class=backlinks-container><h3>Backlinks</h3><ul class=backlinks><li>No backlinks found</li></ul></div></div><div id=contact_buttons><footer><p>Salehah © 2021 |
+Further: in full BA (after loop closure, or any time for map refinement), only allow time between KFs to be &lt;= 3s (to reduce IMU noise integration)</p></article><div id=contact_buttons><footer><p>Salehah © 2021 |
 powered by <a href=https://github.com/jackyzha0/quartz>Quartz</a></p><a href=../../>Home</a>
 <a href=https://github.com/salehahr>Github</a></footer></div><script type=text/javascript src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script></div></body></html>
