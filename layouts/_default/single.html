@@ -1,8 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
+{{define "head"}}
 {{ partial "head.html" . }}
+{{end}}
 
-<body>
+{{ define "main" }}
+<main>
 {{partial "search.html" .}}
 <div class="singlePage">
     <!-- Begin actual content -->
@@ -23,6 +24,5 @@
     </article>
     {{partial "footer.html" .}}
 </div>
-</body>
-
-</html>
+</main>
+{{ end }}

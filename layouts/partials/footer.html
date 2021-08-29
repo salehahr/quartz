@@ -3,15 +3,13 @@
     <div class="backlinks-container">
         {{partial "backlinks.html" .}}
     </div>
-    <div>
-        {{partial "graph.html" .}}
-    </div>
 </div>
 
 <!-- Contact Info -->
 <div id="contact_buttons">
     <footer>
-        <p>Made by {{ $.Site.Data.config.name }} using <a href="https://github.com/jackyzha0/quartz">Quartz</a>, © {{ dateFormat "2006" now }}</p>
+        <p>{{ $.Site.Data.config.name }} © {{ dateFormat "2006" now }} |
+          powered by <a href="https://github.com/jackyzha0/quartz">Quartz</a></p>
         {{ if not .IsHome }}
         <a href="/">Home</a>
         {{end}}
