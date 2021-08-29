@@ -5,12 +5,16 @@
 {{define "main"}}
 <!-- Main Page -->
 <div class="singlePage">
-    {{partial "darkmode.html" .}}
-    {{.Content}}
+    <article>
+        {{partial "darkmode.html" .}}
+        {{.Content}}
+    </article>
 
-    <div>
+    <p></p>
+
+    <article>
     {{partial "graph.html" .}}
-    </div>
+    </article>
     
     {{partial "footer.html" .}}
 </div>
