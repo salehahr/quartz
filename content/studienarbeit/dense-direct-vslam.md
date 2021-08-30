@@ -6,12 +6,12 @@ tags:
   - -sa/processed
 ---
 
-Parent: [Visual SLAM Implementation Framework](visual-slam-implementation-framework.md), [slam-index](slam-index.md)
+Parent: [Visual SLAM Implementation Framework](SLAM/vslam-framework.md), [slam_index](SLAM/slam_index.md)
 See also: [Feature-based vs direct SLAM workflow](feature-based-vs-direct-slam-workflow.md)
 
 Source: [Cometlabs What You Need to Know About SLAM](cometlabs what you-need-to-know-about-slam.md)
 
-*   Front-end part of the [Visual SLAM Implementation Framework](visual-slam-implementation-framework.md)
+*   Front-end part of the [Visual SLAM Implementation Framework](SLAM/vslam-framework.md)
 *   Use most or all of the pixels in each received frame
     *   Provide more information about the environment
 *   Many more pixels, require GPUs

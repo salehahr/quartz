@@ -8,7 +8,7 @@ tags:
 
 **Parent**: [General Kalman Filter](general-kalman-filter.md)
 
-Source: [Scaradozzi 2018 SLAM application in surgery](scaradozzi-2018-slam-application-in-surgery.md)
+Source: [Scaradozzi 2018 SLAM application in surgery](studienarbeit/scaradozzi-2018.md)
 
 *   developed to overcome main problems of the [EKF](http://www.evernote.com/shard/s484/nl/217355218/a3417515-123a-4310-ac2f-937cd4878942)
 *   like EKF, approximates the state distribution with a Gaussian Random Variable

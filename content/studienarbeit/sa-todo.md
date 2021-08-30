@@ -16,7 +16,7 @@ Camera-based localisation
 
 *   [x] Find a classification of approaches/techniques
     *   [x] Briefly describe each
-    *   [x] See if it applies to the project
+    *   [ ] See if it applies to the project
 *   [x] Look into the most promising approach -- how to implement (DefSLAM)
 *   DefSLAM
     *   [x] Install DefSLAM library
@@ -47,5 +47,5 @@ Camera-based localisation
     *   - [x] DefSLAM + SWIG scrapped for now
 *   [ ] Make pretty plots/animations
 *   [ ] Presentation
-*   [ ] [thesis](thesis.md)
+*   [ ] [Thesis](thesis/thesis.md)
 

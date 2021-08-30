@@ -6,7 +6,7 @@ tags:
   - -sa/processed
 ---
 
-Parent: [SLAM Index](slam-index.md)
+Parent: [SLAM Index](SLAM/slam_index.md)
 Backlinks: [Camera calibration](camera calibration.md), [pinhole camera projection function](pinhole camera projection function.md), [weiss thesis vision based navigation for micro helicopters](weiss thesis vision-based-navigation-for-micro-helicopters.md)
 See also: [World to camera trafo](world-to-camera-trafo.md)
 

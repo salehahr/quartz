@@ -7,9 +7,9 @@ tags:
   - -sa/processed
 ---
 
-Parent: [Visual SLAM Implementation Framework](visual-slam-implementation-framework.md)
+Parent: [Visual SLAM Implementation Framework](SLAM/vslam-framework.md)
 
-Source: [cometlabs](cometlabs.md)
+Source: [cometlabs](bibliography/cometlabs.md)
 
 (Camera pose optimisation)
 

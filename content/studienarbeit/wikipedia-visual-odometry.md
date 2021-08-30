@@ -11,6 +11,6 @@ tags:
 
 Source: [http://en.wikipedia.org/wiki/Visual\_odometry](http://en.wikipedia.org/wiki/Visual_odometry)
 
-[Odometry](odometry.md)
-[Visual sensors for localisation](visual-sensors-for-localisation.md)
+[Odometry](definitions/odometry.md)
+[Visual sensors for localisation](sensors/visual-sensors-for-localisation.md)
 

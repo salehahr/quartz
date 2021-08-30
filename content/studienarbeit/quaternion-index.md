@@ -27,9 +27,7 @@ As rotation
 *   [Exponential map](exponential-map.md)
 *   [Logarithm map](logarithm-map.md)
 
-[Orientation parametrisations](orientation-parametrisations.md)
-
-*   [Which orientation parametrisation to choose?](which-orientation-parametrisation-to-choose_.md)
+[Orientation parametrisations](orientati[Which orientation parametrisation to choose?](permanent/20.4-which-orientation-parametrisation-to-choose.md)n-parametrisation-to-choose.md)
 *   [Linearisation of an orientation in SO(3)](linearisation-of-an-orientation-in-so(3).md)
 
 [Quaternion to rotation matrix](quaternion-to-rotation-matrix.md)

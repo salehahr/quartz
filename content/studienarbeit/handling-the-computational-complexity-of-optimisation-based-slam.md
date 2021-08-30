@@ -6,7 +6,7 @@ tags:
   - -sa/processed
 ---
 
-**Parent**: [SLAM Index](slam-index.md)
+**Parent**: [SLAM Index](SLAM/slam_index.md)
 **Source:** [Forster 2017 IMU Preintegration](forster-2017-imu-preintegration.md)
 
 Complexity of nonlinear batch optimisation

@@ -32,7 +32,7 @@ With
     ![unknown_filename.8.png](./_resources/Quaternion_multiplication.resources/unknown_filename.8.png)
     
 
-**Source**: [Markley Fundamentals of Spacecraft Attitude Determination](markley-fundamentals-of-spacecraft-attitude-determination.md)
+**Source**: [Markley 2014](markley-2014.md)
 
 ![unknown_filename.9.png](./_resources/Quaternion_multiplication.resources/unknown_filename.9.png)
 

@@ -6,7 +6,7 @@ tags:
   - -sa/processed
 ---
 
-Parent: [SLAM Index](slam-index.md)
+Parent: [SLAM Index](SLAM/slam_index.md)
 Source: [Wu 2018 Image-based camera localization: an overview](wu 2018-image-based-camera-localization_-an-overview.md)
 
 ![unknown_filename.png](./_resources/Classification_of_image-based_camera_localization_approaches.resources/unknown_filename.png)

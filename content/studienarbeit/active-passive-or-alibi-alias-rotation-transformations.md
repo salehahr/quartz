@@ -8,7 +8,7 @@ tags:
 
 Parent: [Rotations / SO(3) group index](rotations-_-so(3)-group-index.md)
 See also: [Intrinsic vs extrinsic rotations](intrinsic-vs-extrinsic-rotations.md)
-**Backlinks**: [Markley Fundamentals of Spacecraft Attitude Determination](markley-fundamentals-of-spacecraft-attitude-determination.md)
+**Backlinks**: [Markley 2014](markley-2014.md)
 
 Source: [http://en.wikipedia.org/wiki/Rotation\_matrix
 - Ambiguities](http://en.wikipedia.org/wiki/Rotation_matrix

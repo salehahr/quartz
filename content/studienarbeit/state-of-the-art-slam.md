@@ -7,7 +7,7 @@ tags:
   - -sa/processed
 ---
 
-Parent: [SLAM Index](slam-index.md)
+Parent: [SLAM Index](SLAM/slam_index.md)
 Backlinks: [Qin 2019 General Optimization-based Framework (Multisensor)](qin-2019-general-optimization-based-framework-(multisensor).md)
 
 Things that I've seen mentioned several times so far

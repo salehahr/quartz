@@ -12,7 +12,7 @@ Source: [MKok 2017 Using inertial sensors for position and orientation estimati
 Three main components to the probabilistic models
 
 1.  [IMU measurement model](imu-measurement-model.md) (infer knowledge about pose from measurements) ![unknown_filename.5.png](./_resources/Probabilistic_models_for_IMU.resources/unknown_filename.5.png)
-2.  [Prediction model](prediction-model.md) (how sensor pose changes over time)
+2.  [Prediction model](SLAM/prediction-model.md) (how sensor pose changes over time)
 3.  Models of the initial pose (prior)
 
 Knowledge we are interested in: pose of the sensor

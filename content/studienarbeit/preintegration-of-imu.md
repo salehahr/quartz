@@ -7,8 +7,8 @@ tags:
   - -sa/to-be-processed
 ---
 
-Parent: [IMU](imu.md)
-Backlinks: [IMU states, dynamics equations](imu-states,-dynamics-equations.md)
+Parent: [IMU](sensors/imu.md)
+Backlinks: [IMU states, dynamics equations](studienarbeit/imu-states-dynamics-equations.md)
 
 *   IMU measurements arrive at a higher frequency (frame rate) compared to camera captures (keyframe rate)
 *   IMU measurements constrain consecutive states

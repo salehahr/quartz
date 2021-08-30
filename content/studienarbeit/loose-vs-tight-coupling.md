@@ -6,7 +6,7 @@ tags:
   - -sa/processed
 ---
 
-Parent: [SLAM Index](slam-index.md)
+Parent: [SLAM Index](SLAM/slam_index.md)
 Backlinks: [Multisensor fusion](multisensor-fusion.md)
 Source: [Wu 2018 Image-based camera localization: an overview](wu 2018-image-based-camera-localization_-an-overview.md)
 

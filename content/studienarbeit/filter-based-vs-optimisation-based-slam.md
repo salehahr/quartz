@@ -6,9 +6,9 @@ tags:
   - -sa/processed
 ---
 
-Parent: [SLAM Index](slam-index.md)
+Parent: [SLAM Index](SLAM/slam_index.md)
 
-Source: [Scaradozzi 2018 SLAM application in surgery](scaradozzi-2018-slam-application-in-surgery.md)
+Source: [Scaradozzi 2018 SLAM application in surgery](studienarbeit/scaradozzi-2018.md)
 
 Main paradigms of SLAM
 

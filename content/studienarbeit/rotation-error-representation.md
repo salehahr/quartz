@@ -9,9 +9,9 @@ tags:
 
 Parents: [Rotations / SO(3) group index](rotations _ so(3)-group-index.md), [quaternion-index](quaternion-index.md)
 Backlinks: [50.2.2.1 Variables in ESKF using IMUs](50.2.2.1 variables in eskf using imus.md), [mekf-measurement-update](mekf-measurement-update.md)
-See also: [Orientation parametrisations](orientation parametrisations.md), [which orientation parametrisation to-choose?](which-orientation-parametrisation-to-choose_.md)
+See also: [Orientation parametrisations](orientation-parametrisations.md), [which orientation parametrisation to-choose?](permanent/20.4-which-orientation-parametrisation-to-choose.md)
 
-Source: [Markley Fundamentals of Spacecraft Attitude Determination](markley-fundamentals-of-spacecraft-attitude-determination.md)
+Source: [Markley 2014](markley-2014.md)
 
 Note:
 

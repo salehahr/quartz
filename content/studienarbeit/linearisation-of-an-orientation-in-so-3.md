@@ -7,12 +7,13 @@ tags:
   - math/quaternions
 ---
 
-Parents: [Rotations / SO(3) group index](rotations _ so(3) group-index.md), [quaternion-index](quaternion-index.md), [orientation-parametrisations](orientation-parametrisations.md)
-Source: [MKok 2017 Using inertial sensors for position and orientation estimation](mkok 2017 using inertial sensors-for-position-and-orientation-estimation.md)
+**Parents**: [Rotations / SO(3) group index](rotations-so-3-group-index.md), [quaternion-index](quaternion-index.md), [orientation-parametrisations](orientation-parametrisations.md)
+**Source**: [MKok 2017 Using inertial sensors for position and orientation estimation](mkok-2017.md)
+**Backlinks**: [Which orientation parametrisation to choose](permanent/20.4-which-orientation-parametrisation-to-choose.md)
 
 Rotation of a vector in SO(3)
 
-*   The [SO(3)](so(3).md)-group-is-a [lie-group](lie-group.md), so there exists
+*   The [SO(3)](so-3.md) group is a [lie-group](studienarbeit/lie-group.md), so there exists
     *   an [exponential map](exponential-map.md) from a corresponding Lie algebra to the SO(3) group
     *   a reverse [log map](log-map.md) 
 *   Possible to represent

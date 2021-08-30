@@ -6,7 +6,7 @@ tags:
   - -sa/processed
 ---
 
-Parent: [Extended Kalman Filter](extended-kalman-filter.md)
+Parent: [Extended Kalman Filter](SLAM/extended-kalman-filter.md)
 
 Source: [SLAM for Dummies](slam-for-dummies.md)
 General (non-SLAM) implementation of EKF:
@@ -17,7 +17,7 @@ General (non-SLAM) implementation of EKF:
 
 SLAM implementations of EKF requires map update and therefore the matrices are changed.
 
-Source: [Scaradozzi 2018 SLAM application in surgery](scaradozzi-2018-slam-application-in-surgery.md)
+Source: [Scaradozzi 2018 SLAM application in surgery](studienarbeit/scaradozzi-2018.md)
 EKF [vs KF](http://www.evernote.com/shard/s484/nl/217355218/bb893af4-28b5-484b-b110-cdcb4eb91477)
 
 *   circumvents linearity assumption

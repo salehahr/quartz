@@ -19,7 +19,7 @@ Abstract:
 *   Caveat: most of the code is written for didactic purposes, may not be the most efficient solution (nor numerically stable)
 
 Recommended other works
-s. [Works of possible interest](works-of-possible-interest.md)
+s. [Works of possible interest](bibliography/works-of-interest.md)
 
 Chapters
 

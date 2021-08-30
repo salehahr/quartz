@@ -6,7 +6,7 @@ tags:
   - -sa/processed
 ---
 
-Parent: [SLAM Index](slam-index.md)
+Parent: [SLAM Index](SLAM/slam_index.md)
 Source: <http://de.mathworks.com/help/vision/ug/camera-calibration.html>
 
 *   estimates lens/sensor parameters

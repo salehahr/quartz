@@ -12,7 +12,7 @@ Parent: [Orientation parametrisations](orientation-parametrisations.md)
 Backlinks: [50.5.1 Observation of the error state (filter correction)](50.5.1 observation of the error state (filter correction).md), [50.5.3-eskf-reset](50.5.3-eskf-reset.md)
 See also: [Rotation error representation](rotation-error-representation.md)
 
-Source: [Markley Fundamentals of Spacecraft Attitude Determination](markley-fundamentals-of-spacecraft-attitude-determination.md)
+Source: [Markley 2014](markley-2014.md)
 
 From [unit quaternions](unit-quaternions.md):
 ![Image.png](./_resources/Gibbs___Rodrigues_parameter_representation_for_rotations.resources/Image.png)

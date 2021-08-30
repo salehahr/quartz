@@ -9,7 +9,7 @@ tags:
 ---
 
 **Source**: [Lamarca 2019 DefSLAM](lamarca-2019-defslam.md)
-**See also**: [Data association](data-association.md)
+**See also**: [Data association](SLAM/data-association.md)
 
 *   Goal: match keypoints in current frame (newly extracted) with map points (already in map/system)
 *   Use the active matching strategy proposed in \[Agudo 2015\]: “Simultaneous pose and non-rigid shape with particle dynamics,”

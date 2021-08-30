@@ -7,7 +7,7 @@ tags:
   - SLAM/algos/DefSLAM
 ---
 
-**Parent**: [Lamarca 2020 DefSLAM](lamarca-2020-defslam.md)
+**Parent**: [Lamarca 2020 DefSLAM](studienarbeit/lamarca-2020.md)
 **Source**: <http://github.com/UZ-SLAMLab/DefSLAM/issues/1>
 
 JoseLamarca:

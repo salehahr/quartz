@@ -7,12 +7,12 @@ tags:
   - sensors/IMU
 ---
 
-Parent: [SLAM Index](slam-index.md)
+Parent: [SLAM Index](SLAM/slam_index.md)
 Backlinks: [SA TODO](sa-todo.md)
 
-General
-[IMU](imu.md)
-[Odometry](odometry.md)
+**General**
+* [IMU](sensors/imu.md)
+* [Odometry](definitions/odometry.md)
 [Why use the visual-inertial sensor combination?](why-use-the-visual-inertial-sensor-combination_.md)
 [IMU to camera coordinate transformations](imu-to-camera-coordinate-transformations.md)
 

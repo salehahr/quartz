@@ -8,7 +8,7 @@ tags:
 ---
 
 Source: [SLAM for Dummies](slam-for-dummies.md)
-Backlinks: [Basic EKF for SLAM](basic-ekf-for-slam.md)
+Backlinks: [Basic EKF for SLAM](SLAM/basic-ekf-for-slam.md)
 
 Overview
 

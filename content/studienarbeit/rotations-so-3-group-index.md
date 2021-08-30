@@ -19,9 +19,7 @@ Ambiguities in rotation representations
 [Intrinsic vs extrinsic rotations](intrinsic-vs-extrinsic-rotations.md)
 
 Rotation representations
-[Orientation parametrisations](orientation-parametrisations.md)
-
-*   [Which orientation parametrisation to choose?](which-orientation-parametrisation-to-choose_.md)
+[Orientation parametrisations](orientation-param[Which orientation parametrisation to choose?](permanent/20.4-which-orientation-parametrisation-to-choose.md)trisation-to-choose.md)
     
 *   [Linearisation of an orientation in SO(3)](linearisation-of-an-orientation-in-so(3).md)
     

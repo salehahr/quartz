@@ -8,7 +8,7 @@ tags:
 ---
 
 Source: [Wikipedia Lokalisierung](wikipedia-lokalisierung.md)
-**Backlinks**: [Lamarca 2020 DefSLAM](lamarca-2020-defslam.md)
+**Backlinks**: [Lamarca 2020 DefSLAM](studienarbeit/lamarca-2020.md)
 
 *   Position initially known
 *   Then robot is repositioned without knowing it

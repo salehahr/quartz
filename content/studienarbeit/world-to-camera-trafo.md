@@ -6,7 +6,7 @@ tags:
   - -sa/processed
 ---
 
-Parent: [SLAM Index](slam-index.md)
+Parent: [SLAM Index](SLAM/slam_index.md)
 See also: [Pinhole camera model](pinhole camera model.md), [pinhole camera-projection-function](pinhole-camera-projection-function.md)
 Source: <http://www.cse.psu.edu/~rtc12/CSE486/lecture12.pdf>
 

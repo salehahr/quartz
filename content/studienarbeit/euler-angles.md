@@ -40,7 +40,7 @@ Table of Euler rotation matrices (RH, active, intrinsic):
 |     | ![unknown_filename.1.png](./_resources/euler_angles.resources/unknown_filename.1.png)<br>s. derivation here:  [rotations as xyz bryan-tait angles (kardanwinkel)](rotations-as-xyz-bryan-tait-angles-(kardanwinkel).md) |
 |     | ![unknown_filename.png](./_resources/Euler_angles.resources/unknown_filename.png)<br>intrinsic yaw pitch roll |
 
-Source: [Markley Fundamentals of Spacecraft Attitude Determination](markley-fundamentals-of-spacecraft-attitude-determination.md)
+Source: [Markley 2014](markley-2014.md)
 
 Table of Euler rotation matrices (RH, passive, intrinsic):
 1: phi, 2:theta, 3:psi

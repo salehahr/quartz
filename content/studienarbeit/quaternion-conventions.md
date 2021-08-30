@@ -8,7 +8,7 @@ tags:
 
 Parent: [Quaternion index](quaternion-index.md)
 Source: [Solà 2017 Quaternion kinematics for ESKF](solà-2017-quaternion-kinematics-for-eskf.md)
-Backlinks: [MEKF](mekf.md)
+Backlinks: [MEKF](50.4.2-multiplicative-quaternion-filtering-mekf.md)
 
 ![unknown_filename.png](./_resources/Quaternion_conventions.resources/unknown_filename.png)
 

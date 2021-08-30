@@ -7,7 +7,7 @@ tags:
 ---
 
 Backlinks: [Main paradigms of SLAM](main-paradigms-of-slam.md)
-Source: [Scaradozzi 2018 SLAM application in surgery](scaradozzi-2018-slam-application-in-surgery.md)
+Source: [Scaradozzi 2018 SLAM application in surgery](studienarbeit/scaradozzi-2018.md)
 
 KF original algorithm assumes linearity (rarely ever the case)
 
