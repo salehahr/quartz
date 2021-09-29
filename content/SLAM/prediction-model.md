@@ -13,22 +13,31 @@ Used in the [prediction step](SLAM/step-1-odometry-update-prediction-step.md).
 
 How to compute an expected position of the robot given the old position and the control input (so basically based on [odometry](definitions/odometry.md).
 
-Control terms are $\Delta x, \Delta y, \Delta \theta$)
+Control terms are $\Delta x, \Delta y, \Delta \theta$
 
 $$
-f = \left[ 
-\begin{array}{c}
-x + \Delta t \cos \theta + q \Delta t \cos \theta \\
-y + \Delta t \sin \theta + q \Delta t \sin \theta \\
-\theta + \Delta \theta + q \Delta\theta
-\end{array}
-\right]
+\begin{align}
+f &= \left[ 
+	\begin{array}{c}
+	x + \Delta t \cos \theta + q \Delta t \cos \theta \\
+	y + \Delta t \sin \theta + q \Delta t \sin \theta \\
+	\theta + \Delta \theta + q \Delta\theta
+	\end{array}
+	\right]\\
+  &= \left[ 
+	\begin{array}{c}
+	x + \Delta x + q \Delta x \\
+	y + \Delta y + q \Delta y \\
+	\theta + \Delta \theta + q \Delta\theta
+	\end{array}
+	\right]
+\end{align}
 $$
 
-[unknown_filename.1.png](studienarbeit/_resources/Prediction_model.resources/unknown_filename.1.png)  
-
-$\Delta t$: change in thrust  
-$q$: error term
+Variable	| Description 
+--- 		| ---
+$\Delta t$ 	| change in thrust  
+$q$ 		| error term
 
 Jacobian (assuming linearised version)
 

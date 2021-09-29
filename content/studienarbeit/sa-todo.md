@@ -8,15 +8,12 @@ tags:
   - -sa/processed
 ---
 
-Parent: [Scope of Studienarbeit](scope-of-studienarbeit.md)
-See also: [HiWi to-do](hiwi to-do.md), [defslam +-orbslam3-integration](defslam-+-orbslam3-integration.md)
-
 Studienarbeit
 Camera-based localisation
 
 *   [x] Find a classification of approaches/techniques
     *   [x] Briefly describe each
-    *   [ ] See if it applies to the project
+    *   [x] See if it applies to the project
 *   [x] Look into the most promising approach -- how to implement (DefSLAM)
 *   DefSLAM
     *   [x] Install DefSLAM library
@@ -33,19 +30,13 @@ Camera-based localisation
             *   IMU preintegration
             *   IMU initialisation
 *   - [x] implement imu term in optimisation (either using ekf (s. [imu index](imu-index.md)), or [orbslam3-approach](orbslam3-approach.md)) for doing VI-DefSLAM. scrapped
-*   [ ] Use EKF to estimate IMU calibration pose (between IMU and camera)
+*   [x] Use EKF to estimate IMU calibration pose (between IMU and camera)
     *   [x] model for generating imu data from camera, s. [obtaining imu measurements from camera by forward kinematics](obtaining imu measurements-from-camera-by-forward-kinematics.md)
     *   [x] Come up with equations correlating SLAM CS to real camera CS: just subtract theta\_notch
     *   [x] Implement filter using IMU data + camera measurements
-
-|     |     |
-| --- | --- |
-| Predict | Update |
-| *   Get IMU data<br>    IMU = func(fwkine(DOF), kinem. relations(last cam val))<br>    *   Generate IMU data per time step<br>    *   IMU data generation to take into account cam-scope ang. displacement (q\_notch)<br>*   Propagate states (IMU states + DOF)<br>    states = func(IMU) | *   Measurements available<br>    *   Notch position<br>    *   SLAM pose<br>*   Correct SLAM pose to 'camera' pose at distal end of scope<br>*   Update states |
-
 *   ~~- [x] Finalise interface (Python + DefSLAM)~~
     *   - [x] DefSLAM + SWIG scrapped for now
 *   [ ] Make pretty plots/animations
-*   [ ] Presentation
+*   [x] Presentation
 *   [ ] [Thesis](thesis/thesis.md)
 
