@@ -13,6 +13,8 @@ This implementation uses [Obsidian](https://www.obsidian.md/).
 * [SLAM index](SLAM/slam_index.md)
 
 <pre></pre>
-
 * [Bibliography](bibliography/_index.md)
 * [Works of interest](bibliography/works-of-interest.md)
+
+<pre></pre>
+## Other topics
