@@ -6,8 +6,8 @@ tags:
   - math/rotations
 ---
 
-Parents: [Rotations / SO(3) group index](rotations _ so(3)-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)
-See also: [Rotation vector representation](rotation-vector-representation.md)
+Parents: [Rotations / SO(3) group index](rotations _ so(3)-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)  
+See also: [Rotation vector representation](rotation-vector-representation.md)  
 **Backlinks**: [Gibbs / Rodrigues parameter representation for rotations](gibbs _-rodrigues-parameter-representation-for-rotations.md)
 
 Source: [Markley 2014](markley-2014.md)

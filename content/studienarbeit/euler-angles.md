@@ -7,10 +7,15 @@ tags:
   - math/rotations
 ---
 
-Parents: [Rotations / SO(3) group index](rotations _ so(3)-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)
-Backlinks: [Orientation parametrisations](orientation-parametrisations.md)
+Parents: [Rotations / SO(3) group index](rotations-so(3)-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)  
 
-Source: [http://en.wikipedia.org/wiki/Euler\_angles](http://en.wikipedia.org/wiki/Euler_angles)
+**Source**: [Phil's Lab](bibliography/phils-lab-sensor-fusion.md)
+* Three angles that describe the orientation of an object w.r.t. a *fixed* coordinate system
+* Roll $\phi$, Pitch $\theta$, Yaw $\psi$
+
+---
+
+**Source**: [http://en.wikipedia.org/wiki/Euler\_angles](http://en.wikipedia.org/wiki/Euler_angles)
 
 Possible representations
 
