@@ -38,5 +38,5 @@ Camera-based localisation
     *   - [x] DefSLAM + SWIG scrapped for now
 *   [ ] Make pretty plots/animations
 *   [x] Presentation
-*   [ ] [Thesis](thesis/thesis.md)
+*   [ ] [Thesis](private/thesis/thesis.md)
 

@@ -95,13 +95,13 @@ tags:
 
 ## Conclusion and future work
 This (estimation of the IMU-camera calibration parameters) provides the groundwork for implementing actual SLAM (VI fusion)
-[Ausblick](thesis/ausblick.md)
+[Ausblick](private/thesis/ausblick.md)
 
 Bilder Versuchsstandaufbau
 
 
 **To check before submitting**:
-- [ ] [Fact checks](thesis/fact-checks.md)
-- [ ] [Schönheitsfehler](thesis/schoenheitsfehler.md)
-- [ ] [Tex stuff](thesis/tex-stuff.md)
-- [ ] [Spelling](thesis/spelling.md)
+- [ ] [Fact checks](private/thesis/fact-checks.md)
+- [ ] [Schönheitsfehler](private/thesis/schoenheitsfehler.md)
+- [ ] [Tex stuff](private/thesis/tex-stuff.md)
+- [ ] [Spelling](private/thesis/spelling.md)
