@@ -11,7 +11,7 @@ tags:
 **Parents**: [rotations-so3-group-index](rotations/rotations-so3-group-index.md), [quaternion-index](rotations/quaternion-index.md)  
 **See also**: [Orientation parametrisations](orientation-parametrisations.md), [which orientation parametrisation to-choose?](rotations/20.4-which-orientation-parametrisation.md)
 
-**Source**: [Markley 2014](markley-2014.md)
+**Source**: [Markley 2014](bibliography/markley-2014.md)
 
 Note:
 
@@ -27,6 +27,7 @@ Rotation vector
 
 Quaternion
 ![unknown_filename.png](studienarbeit/_resources/Rotation_error_representation.resources/unknown_filename.png)
+s. also [quaternion-double-cover](rotations/quaternion-double-cover.md)
 
 Euler angles
 ![unknown_filename.3.png](studienarbeit/_resources/Rotation_error_representation.resources/unknown_filename.3.png)

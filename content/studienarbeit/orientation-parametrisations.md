@@ -12,11 +12,11 @@ tags:
 **Parents**: [rotations-so3-group-index](rotations/rotations-so3-group-index.md), [quaternion index](rotations/quaternion-index.md), [probabilistic models-for-imu](probabilistic-models-for-imu.md)  
 **See also**: [Rotation error representation](rotations/rotation-error-representation.md)
 
-**Source**: [MKok 2017](mkok-2017.md)
+**Source**: [MKok 2017](mkok-2017.md), [markley-2014](bibliography/markley-2014.md)
 
 Orientation parametrisations
 
-*   Note: CCW rotation of a vector $x_v$ to $x_u$ corresponds to a CW rotation of the CS $v$ to CS $u$.
+*   Note: CCW rotation of a vector $x_v$ to $x_u$ corresponds to a CW rotation of the CS $v$ to CS $u$ (see also [active/passive transformations](rotations/active-passive-or-alibi-alias-rotation-transformations.md)).
 *   Rotations are a member of [SO(3)](rotations/so3-3d-rotation-group.md)
 
 | rotation matrix | unique description of orientation |

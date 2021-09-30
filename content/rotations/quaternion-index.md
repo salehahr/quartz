@@ -11,13 +11,14 @@ tags:
 ## Notation
 [Quaternion conventions](quaternion-conventions.md)
 
-## Basic math
-* [Quaternion multiplication](quaternion-multiplication.md)
-* [Identity quaternion](identity-quaternion.md)
+## Basic math/properties
+* [Quaternion multiplication](rotations/quaternion-multiplication.md)
+* [Identity quaternion](rotations/identity-quaternion.md)
 * [Quaternion conjugate](quaternion-conjugate.md)
 * [Quaternion norm](quaternion-norm.md)
 * [Inverse quaternion](inverse-quaternion.md)
 * [Unit quaternions](rotations/unit-quaternions.md)
+* [Double cover](rotations/quaternion-double-cover.md)
 
 ### Calculus
 [Quaternion differentiation](quaternion-differentiation.md)
@@ -33,7 +34,8 @@ tags:
 * [Rotation error representation](rotations/rotation-error-representation.md)
 
 ## For filtering
-[Additive-quaternion-filtering](studienarbeit/50.4.1-additive-quaternion-filtering.md)
+* [Additive-quaternion-filtering](studienarbeit/50.4.1-additive-quaternion-filtering.md)
+* [Multiplicative-quaternion-filtering-mekf](studienarbeit/50.4.2-multiplicative-quaternion-filtering-mekf.md)
 
 ## Literature
 * [Solà 2017 Quaternion kinematics for ESKF](solà-2017-quaternion-kinematics-for-eskf.md)

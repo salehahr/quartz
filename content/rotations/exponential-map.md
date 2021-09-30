@@ -74,3 +74,5 @@ $$
 \end{aligned}
 $$
 
+**Note**: in this source, $\exp_q$ and $\exp_R$ equivalent to the $\text{Exp}$ notation in other sources.
+So here, $\eta$ is implicitly converted either to $\left[ \eta \times\right]$ or $\eta/2$ in an intermediate step.
