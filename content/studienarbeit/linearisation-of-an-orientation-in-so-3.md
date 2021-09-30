@@ -5,22 +5,21 @@ tags:
   - -sa/processed
   - math/rotations
   - math/quaternions
+  - -published
 ---
 
-**Parents**: [Rotations / SO(3) group index](rotations-so-3-group-index.md), [quaternion-index](quaternion-index.md), [orientation-parametrisations](orientation-parametrisations.md)
-**Source**: [MKok 2017 Using inertial sensors for position and orientation estimation](mkok-2017.md)
-**Backlinks**: [Which orientation parametrisation to choose](permanent/20.4-which-orientation-parametrisation-to-choose.md)
+**Parents**: [Rotations / SO(3) group index](rotations/rotations-so3-group-index.md), [Quaternion index](rotations/quaternion-index.md), [orientation-parametrisations](orientation-parametrisations.md)  
+**Source**: [MKok 2017](mkok-2017.md)
 
 Rotation of a vector in SO(3)
 
-*   The [SO(3)](so-3.md) group is a [lie-group](studienarbeit/lie-group.md), so there exists
-    *   an [exponential map](exponential-map.md) from a corresponding Lie algebra to the SO(3) group
-    *   a reverse [log map](log-map.md) 
+*   The [SO(3)](rotations/so3-3d-rotation-group.md) group is a [Lie group](rotations/lie-group-lie-algebra.md), so there exists
+    *   an [exponential map](rotations/exponential-map.md) from a corresponding Lie algebra to the SO(3) group
+    *   a reverse [logarithm map](rotations/logarithm-map.md)
 *   Possible to represent
     *   orientations using unit quaternions or rotation matrices in SO(3) — linearisation point
         ![unknown_filename.1.png](./_resources/Linearisation_of_an_orientation_in_SO(3).resources/unknown_filename.1.png)
-        
-    *   orientation deviations ![unknown_filename.png](./_resources/Linearisation_of_an_orientation_in_SO(3).resources/unknown_filename.png) using rotation vectors on R^3 (Lie algebra)
+    *   orientation deviations $\eta_t$
 
 ![unknown_filename.2.png](./_resources/Linearisation_of_an_orientation_in_SO(3).resources/unknown_filename.2.png)
 

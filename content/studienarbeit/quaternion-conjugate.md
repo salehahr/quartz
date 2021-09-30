@@ -6,7 +6,7 @@ tags:
   - math/quaternions
 ---
 
-Parent: [Quaternion index](quaternion-index.md)
+Parent: [Quaternion index](rotations/quaternion-index.md)
 Source: <http://en.wikipedia.org/wiki/Quaternion>
 
 Flip signs of vector part
