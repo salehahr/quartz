@@ -25,7 +25,7 @@ Lie algebra $\mathfrak{so}(3)$
 *   Every Lie group has an associated Lie algebra
 *   Lie algebra: linear space with same dimension as the Lie group
 *   Consists of all skew-symmetric 3x3 matrices
-*   Elements of the Lie algebra $\mathfrak{so}(3)$ are elements of the tangent space of the manifold SO(3)/Lie group at the identity element
+*   Elements of the Lie algebra $\mathfrak{so}(3)$ are elements of the tangent space of the manifold SO(3)/Lie group at the [identity element](rotations/identity-of-a-group.md).
 
 ---
 
@@ -36,7 +36,7 @@ An Euler vector $\mathbf{\omega} = \left(x,y,z\right) \in \mathbb{R}^3$ can be 
 $$
 \hat{\mathbf{\omega}} = \left[\begin{array}{ccc}
 	0 & -z & y\\
-	z & 0 & -z\\
+	z & 0 & -x\\
 	-y & x & 0
 	\end{array}\right] \in \mathfrak{so}(3)
 $$

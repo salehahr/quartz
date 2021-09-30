@@ -12,7 +12,7 @@ tags:
 **Parent**: [Orientation parametrisations](orientation-parametrisations.md)   
 **See also**: [Rotation error representation](rotations/rotation-error-representation.md)
 
-**Source**: [Markley 2014](markley-2014.md)
+**Source**: [Markley 2014](bibliography/markley-2014.md)
 
 From [unit quaternions](rotations/unit-quaternions.md):
 ![Image.png](studienarbeit/_resources/Gibbs___Rodrigues_parameter_representation_for_rotations.resources/Image.png)
@@ -26,7 +26,7 @@ To [unit quaternions](rotations/unit-quaternions.md): 
 
 ![unknown_filename.png](studienarbeit/_resources/Gibbs___Rodrigues_parameter_representation_for_rotations.resources/unknown_filename.png)
 
-*   Plane of the figure contains identity quaternion, origin
+*   Plane of the figure contains [identity quaternion](rotations/identity-quaternion.md), origin
 *   The circle is a cross section of the quaternion sphere S^3
 *   The upper horizontal axis is the 3D Gibbs vector hyperplane (tangent at the identity quaternion)
 

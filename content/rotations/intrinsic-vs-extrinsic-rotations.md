@@ -15,9 +15,11 @@ tags:
 
 We want to rotate first by $R_1$, then by $R_2$.
 
+## Extrinsic rotation
 In global coordinates, extrinsic rotation: $R_2 \cdot R_1$  
 ![unknown_filename.2.png](studienarbeit/_resources/Intrinsic_vs_extrinsic_rotations.resources/unknown_filename.2.png)
 
+## Intrinsic rotation
 In local coordinates, intrinsic rotation: $R_1 \cdot R_2$  
 ($R_1$ defines new coordinates in which $R_2$ is applied)  
 ![unknown_filename.3.png](studienarbeit/_resources/Intrinsic_vs_extrinsic_rotations.resources/unknown_filename.3.png)

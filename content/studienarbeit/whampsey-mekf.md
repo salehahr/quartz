@@ -10,18 +10,18 @@ tags:
   - math/quaternions
   - discussion/2021/2021-08
   - filters/MEKF
+  - -published
 ---
 
-<http://matthewhampsey.github.io/blog/2020/07/18/mekf>
+**Source**: <http://matthewhampsey.github.io/blog/2020/07/18/mekf>
 
-Motivation:
+## Motivation
 
 *   Working with noisy IMU measurements
 *   IMUs usually provide redundant information that can be used to improve dead-reckoning
 
-Uses: Hamilton [quaternion convention](quaternion-convention.md) 
+Uses: Hamilton [quaternion convention](studienarbeit/quaternion-conventions.md).
 
-[Which orientation parametrisation to choose?](rotations/20.4-which-orientation-parametrisation.md)
-
-[Error-State Kalman Filter](error-state-kalman-filter.md)
+* [Which orientation parametrisation to choose?](rotations/20.4-which-orientation-parametrisation.md)
+* [50.5-error-state-kalman-filter](studienarbeit/50.5-error-state-kalman-filter.md)
 
