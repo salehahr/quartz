@@ -6,25 +6,25 @@ tags:
   - discussion/2021/2021-04
   - math/rotations
   - math/quaternions
+  - -published
 ---
 
-Parent: [Rotations / SO(3) group index](rotations _ so(3) group index.md), [quaternion index](quaternion index.md), [probabilistic models-for-imu](probabilistic-models-for-imu.md)
-See also: [Rotation error representation](rotation-error-representation.md)
+**Parents**: [rotations-so3-group-index](rotations/rotations-so3-group-index.md), [quaternion index](rotations/quaternion-index.md), [probabilistic models-for-imu](probabilistic-models-for-imu.md)  
+**See also**: [Rotation error representation](rotations/rotation-error-representation.md)
 
-Source: [MKok 2017 Using inertial sensors for position and orientation estimation](mkok 2017 using inertial sensors-for-position-and-orientation-estimation.md)
+**Source**: [MKok 2017](mkok-2017.md)
 
 Orientation parametrisations
 
-*   Note: CCW rotation of a vector x\_v to x\_u corresponds to a CW rotation of the CS v to CS u.
-*   Rotations in R^3 are a member of the [special orthogonal group SO(3)](special-orthogonal-group-so(3).md)
+*   Note: CCW rotation of a vector $x_v$ to $x_u$ corresponds to a CW rotation of the CS $v$ to CS $u$.
+*   Rotations are a member of [SO(3)](rotations/so3-3d-rotation-group.md)
 
-|     |     |
-| --- | --- |
 | rotation matrix | unique description of orientation |
-| [Euler axis/angle](euler-axis_angle.md)<br>[rotation-vector](rotation-vector.md) | not unique, due to wrapping |
+| --- | --- |
+| [Euler axis/angle](rotations/euler-axis-angle-representation.md)<br>[Rotation vector](studienarbeit/rotation-vector-representation.md) | not unique, due to wrapping |
 | [Euler angles](euler-angles.md) | not unique, due to wrapping and gimbal lock |
-| [Unit quaternions](unit-quaternions.md) | not unique, -q and q depict the same orientation<br>Proof: <http://math.stackexchange.com/questions/2016282/negative-quaternion> |
-| [Gibbs / Rodrigues parameter](gibbs-_-rodrigues-parameter.md) | infinite for 180 degree rotations, but 1:1 mapping between itself and unit quaternions |
+| [Unit quaternions](rotations/unit-quaternions.md) | not unique, -q and q depict the same orientation<br>Proof: <http://math.stackexchange.com/questions/2016282/negative-quaternion> |
+| [Gibbs / Rodrigues parameter](rotations/gibbs-rodrigues-parameter.md) | infinite for 180 degree rotations, but 1:1 mapping between itself and unit quaternions |
 
-Next: [Which orientation parametrisation to choose?](permanent/20.4-which-orientation-parametrisation-to-choose.md)
+Next: [Which orientation parametrisation to choose?](rotations/20.4-which-orientation-parametrisation.md)
 

@@ -6,7 +6,7 @@ tags:
   - math/quaternions
 ---
 
-Parent: [Quaternion index](quaternion-index.md)
+Parent: [Quaternion index](rotations/quaternion-index.md)
 Source: [Solà 2017 Quaternion kinematics for ESKF](solà-2017-quaternion-kinematics-for-eskf.md)
 Backlinks: [MEKF](50.4.2-multiplicative-quaternion-filtering-mekf.md)
 

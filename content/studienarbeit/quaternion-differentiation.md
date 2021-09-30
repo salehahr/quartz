@@ -6,7 +6,7 @@ tags:
   - math/quaternions
 ---
 
-Parent: [Quaternion index](quaternion-index.md)
+Parent: [Quaternion index](rotations/quaternion-index.md)
 Source: J. D. Hol — Sensor fusion and calibration of inertial sensors, vision, ultra-wideband and GPS
 
 ![unknown_filename.3.png](./_resources/Quaternion_differentiation.resources/unknown_filename.3.png)

@@ -11,6 +11,8 @@ This implementation uses [Obsidian](https://www.obsidian.md/).
 ## Studienarbeit
 * [Permanent notes](/permanent/_index.md)
 * [SLAM index](SLAM/slam_index.md)
+* [Rotations index](rotations/rotations-so3-group-index.md)
+* [Quaternion index](rotations/quaternion-index.md)
 
 <pre></pre>
 * [Bibliography](bibliography/_index.md)

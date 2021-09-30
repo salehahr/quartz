@@ -5,9 +5,10 @@ external_url: "http://en.wikipedia.org/wiki/Davenport_chained_rotations"
 tags:
   - -sa/processed
   - math/rotations
+  - -published
 ---
 
-Parents: [Rotations / SO(3) group index](rotations-so(3)-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)  
+**Parents**: [rotations-so3-group-index](rotations/rotations-so3-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)  
 
 **Source**: [Phil's Lab](bibliography/phils-lab-sensor-fusion.md)
 * Three angles that describe the orientation of an object w.r.t. a *fixed* coordinate system
@@ -25,7 +26,7 @@ Possible representations
 As a rotation matrix
 ![ab48abbc214df3633ab0262c3ef043bbd497a38d](http://wikimedia.org/api/rest_v1/media/math/render/svg/ab48abbc214df3633ab0262c3ef043bbd497a38d)
 
-This means either: (s. [Intrinsic vs extrinsic rotations](intrinsic-vs-extrinsic-rotations.md))
+This means either: (s. [Intrinsic vs extrinsic rotations](rotations/intrinsic-vs-extrinsic-rotations.md))
 
 *   extrinsic rotations about z -> y -> x / yaw pitch roll
 *   intrinsic rotations about x -> y' -> z'' = Z = z'''
@@ -42,7 +43,7 @@ Table of Euler rotation matrices (RH, active, intrinsic):
 |     |     |
 | --- | --- |
 | Proper Euler | Tait-Bryan |
-|     | ![unknown_filename.1.png](./_resources/euler_angles.resources/unknown_filename.1.png)<br>s. derivation here:  [rotations as xyz bryan-tait angles (kardanwinkel)](rotations-as-xyz-bryan-tait-angles-(kardanwinkel).md) |
+|     | ![unknown_filename.1.png](./_resources/euler_angles.resources/unknown_filename.1.png)<br>s. derivation here:  [bryan-tait-kardanwinkel](rotations/bryan-tait-kardanwinkel.md) |
 |     | ![unknown_filename.png](./_resources/Euler_angles.resources/unknown_filename.png)<br>intrinsic yaw pitch roll |
 
 Source: [Markley 2014](markley-2014.md)

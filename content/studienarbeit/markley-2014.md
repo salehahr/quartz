@@ -13,7 +13,7 @@ Authors: FL Markley, John Crassidis
 
 Note/Nomenclature:
 
-*   This book interpetes rotations/transformations in the [passive/alias](passive_alias.md) sense (I'm not a fan)
+*   This book interpetes rotations/transformations in the [passive/alias](rotations/active-passive-or-alibi-alias-rotation-transformations.md) sense (I'm not a fan)
 *   Quaternions in JPL [convention](convention.md) instead of Hamiltonian (not a fan of this either...)
 *   Rotation matrix = attitude matrix
 
@@ -36,10 +36,10 @@ Rotations
 [Gibbs / Rodrigues parameter representation](gibbs-_-rodrigues-parameter-representation.md)
 Modified Rodrigues parameters
 
-[Rotation error representation](rotation-error-representation.md)
+[Rotation error representation](rotations/rotation-error-representation.md)
 
 Filtering
-[Which orientation parametrisation to choose?](permanent/20.4-which-orientation-parametrisation-to-choose.md)
+[Which orientation parametrisation to choose?](rotations/20.4-which-orientation-parametrisation.md)
 [Additive quaternion filtering](additive-quaternion-filtering.md)
 [Error-State Kalman Filter](error-state kalman-filter.md) / [multiplicative-quaternion-filtering](multiplicative-quaternion-filtering.md)
 

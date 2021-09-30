@@ -21,7 +21,7 @@ Motivation:
 
 Uses: Hamilton [quaternion convention](quaternion-convention.md) 
 
-[Which orientation parametrisation to choose?](permanent/20.4-which-orientation-parametrisation-to-choose.md)
+[Which orientation parametrisation to choose?](rotations/20.4-which-orientation-parametrisation.md)
 
 [Error-State Kalman Filter](error-state-kalman-filter.md)
 
