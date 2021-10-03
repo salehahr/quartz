@@ -4,7 +4,6 @@ date: "2021-08-17"
 tags:
   - -sa/processed
   - math/rotations
-  - -published
 ---
 
 **Parents**: [rotations-so3-group-index](rotations/rotations-so3-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)    

@@ -9,7 +9,7 @@ tags:
 
 **Source**: [SLAM for Dummies](bibliography/riisgaard-slam-for-dummies.md)
 
-Methods:
+Methods for calculating distance between [landmarks](SLAM/landmarks.md):
 
 *   Euclidean distance (suitable for far distances)
 *   Mahalanobis distance (better, but more complex)

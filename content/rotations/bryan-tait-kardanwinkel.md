@@ -4,7 +4,6 @@ date: "2021-05-24"
 tags:
   - -sa/processed
   - math/rotations
-  - -published
 ---
 
 **Parent**: [rotations-so3-group-index](rotations/rotations-so3-group-index.md)  

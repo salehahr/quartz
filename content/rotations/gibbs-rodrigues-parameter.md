@@ -6,7 +6,6 @@ tags:
   - -sa/processed
   - math/rotations
   - math/quaternions
-  - -published
 ---
 
 **Parent**: [Orientation parametrisations](orientation-parametrisations.md)   

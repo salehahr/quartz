@@ -7,6 +7,7 @@ tags:
   - -published
 ---
 
+**Parent**: [SLAM index](SLAM/slam_index.md)  
 **See also**: [Position acquisition (relative vs. absolute)](sensors/position-acquisition.md)
 
 **Source**: [SLAM for Dummies](bibliography/riisgaard-slam-for-dummies.md)
@@ -17,16 +18,3 @@ tags:
         *   Max errors: 2cm per meter moved, 2deg per 45deg turned
         *   Bad odometry --> bad estimation of current position --> hard to implement SLAM
 2.  [Range measurement device options](sensors/sensors-absolute.md)
-
-* * *
-
-**Source**: [Wikipedia Lokalisierung](wikipedia-lokalisierung.md)
-
-## Categories of sensors for localisation
-
-*   Measuring own movement \[rel\]
-    *   [Odometry](definitions/odometry.md) sensors
-    *   Compass
-*   [Measuring distance to landmarks](sensors/sensors-absolute.md) \[abs\]
-*   [Measuring absolute POSE](sensors/sensors-absolute-pose.md) \[abs\]
-

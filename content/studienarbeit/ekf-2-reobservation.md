@@ -6,6 +6,8 @@ tags:
 - -sa/processed
 ---
 
+**Parent**: [Basic EKF for SLAM](SLAM/basic-ekf-for-slam.md)
+
 **Source**: [SLAM for Dummies](bibliography/riisgaard-slam-for-dummies.md)
 
 Second step in the three-step EKF — overview

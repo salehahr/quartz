@@ -18,7 +18,7 @@ tags:
 ## Motivation
 
 *   Working with noisy IMU measurements
-*   IMUs usually provide redundant information that can be used to improve dead-reckoning
+*   IMUs usually provide redundant information that can be used to improve [dead-reckoning](definitions/odometry.md)
 
 Uses: Hamilton [quaternion convention](studienarbeit/quaternion-conventions.md).
 

@@ -4,7 +4,6 @@ date: "2020-08-22"
 tags:
   - sensors
   - -sa/processed
-  - -published
 ---
 
 **Source**: [SLAM for Dummies](bibliography/riisgaard-slam-for-dummies.md)

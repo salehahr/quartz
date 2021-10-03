@@ -7,7 +7,7 @@ tags:
 ---
 
 Source: [SLAM for Dummies](slam-for-dummies.md)
-Backlinks:  [EKF matrices](ekf-matrices.md), [step-2:-re-observation](step-2-re-observation.md)
+Backlinks:  [EKF matrices](ekf-matrices.md), [step-2:-re-observation](studienarbeit/ekf-2-reobservation.md)
 
 *   Contains robot POSE and landmark position
 *   POSE: (x y theta)\_r

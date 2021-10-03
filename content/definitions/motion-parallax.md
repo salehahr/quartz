@@ -4,7 +4,6 @@ tags:
 - vision
 - -definitions
 - -sa/processed
-- -published
 ---
 
 # Motion parallax

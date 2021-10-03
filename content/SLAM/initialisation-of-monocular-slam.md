@@ -5,7 +5,6 @@ tags:
   - SLAM/VSLAM
   - -sa/processed
   - SLAM/initialisation
-  - -published
 ---
 
 Source:  [Lamarca 2019 DefSLAM](studienarbeit/lamarca-2020.md)

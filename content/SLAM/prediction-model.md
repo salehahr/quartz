@@ -4,12 +4,11 @@ date: "2020-07-29"
 tags:
   - filters/EKF
   - -sa/processed
-  - -published
 ---
 
 **Source**: [SLAM for Dummies](bibliography/riisgaard-slam-for-dummies.md)  
 
-Used in the [prediction step](SLAM/step-1-odometry-update-prediction-step.md).
+Used in the [prediction step](SLAM/ekf-1-prediction.md).
 
 How to compute an expected position of the robot given the old position and the control input (so basically based on [odometry](definitions/odometry.md).
 

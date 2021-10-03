@@ -7,7 +7,8 @@ tags:
   - -published
 ---
 
-**Source**: [cometlabs](bibliography/cometlabs.md)  
+**Source**: [cometlabs](bibliography/cometlabs.md)   
+**See also**: [loop-closing-in-viorb](SLAM/loop-closing-in-viorb.md)
 
 
 ## Loop closure
@@ -26,7 +27,7 @@ tags:
 Match the current frame to all previous frames using feature matching
 
 *   Computationally expensive, not always suitable for real-time applications
-*   For RT—a possible solution: Define [key frames](SLAM/key-frames-in-loop-closure-detection.md) and perform the comparison with only the key frames
+*   For RT—a possible solution: Define [key frames](SLAM/keyframes-in-loop-closure-detection.md) and perform the comparison with only the key frames
 
 ## Problems with loop closure
 

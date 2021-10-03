@@ -4,7 +4,6 @@ date: "2020-08-03"
 tags:
   - localisation/keyframes
   - -sa/processed
-  - -published
 ---
 
 **Source**: [cometlabs](bibliography/cometlabs.md)

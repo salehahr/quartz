@@ -6,7 +6,9 @@ aliases:
 
 # Zettelkasten
 Welcome to my [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten).
-This implementation uses [Obsidian](https://www.obsidian.md/).
+
+This implementation is optimised for view in [Obsidian](https://www.obsidian.md/).  
+The web version is currently very buggy.
 
 ## Studienarbeit
 * [Permanent notes](/permanent/_index.md)

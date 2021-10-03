@@ -40,4 +40,5 @@ Direct integration not possible due to the presence of time-varying bias and noi
 $$\hat{\phi} = \int_0^T  \dot{\phi}(t) + \beta_\phi(t) + \eta_\phi(t) ~dt$$
 
 ## Conclusions
-Using only the gyroscope provides a good estimate over short periods of time (due to integration of bias terms)
+* Using only the gyroscope provides a good estimate over short periods of time (due to integration of bias terms)
+* If using for a short period of time, the drift won't affect us too much (not had time to accumulate)

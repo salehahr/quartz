@@ -14,9 +14,9 @@ A basic EKF implementation of [SLAM](SLAM/what-is-slam.md)   consists of multipl
 *   [Landmark extraction](SLAM/landmark-extraction.md)
 *   [Data association](SLAM/data-association.md)
 
-1.  After odometry change (due to robot moving), [state estimation](SLAM/step-1-odometry-update-prediction-step.md) from odometry
-2.  [Update of the estimated state using re-observed landmark data](studienarbeit/step-2-re-observation.md)
-3.  [Update landmark database with new landmarks](studienarbeit/step-3-new-landmarks.md)
+1.  After odometry change (due to robot moving), [state estimation](SLAM/ekf-1-prediction.md) from odometry
+2.  [Update of the estimated state using re-observed landmark data](studienarbeit/ekf-2-reobservation.md)
+3.  [Update landmark database with new landmarks](studienarbeit/ekf-3-new-landmarks.md)
 
 Note: at any point in the three steps on the left, the EKF will have an estimate of the robots current position
 

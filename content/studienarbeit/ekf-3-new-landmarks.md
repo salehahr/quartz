@@ -7,8 +7,9 @@ tags:
 - -sa/processed
 ---
 
-Source: [SLAM for Dummies](slam-for-dummies.md)
-Backlinks: [Basic EKF for SLAM](SLAM/basic-ekf-for-slam.md)
+**Parent**: [Basic EKF for SLAM](SLAM/basic-ekf-for-slam.md)
+
+**Source**: [SLAM for dummies](bibliography/riisgaard-slam-for-dummies.md)  
 
 Overview
 
@@ -18,7 +19,7 @@ Overview
 *   Update state vector x and covariance matrix P with new landmarks
 
 1.  Add new landmark to state vector X
-2.  Add new row and column to [covariance matrix](http://www.evernote.com/shard/s484/nl/217355218/7bd4a70a-7c4d-4fa7-91ce-7de461360bc2)
+2.  Add new row and column to [covariance matrix](SLAM/covariance-matrix-p.md)
     1.  Covariance for new landmark
     2.  Robot-landmark covariance
 
