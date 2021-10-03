@@ -6,7 +6,6 @@ tags:
   - -definitions
   - -sa/processed
   - localisation/odometry
-  - -published
 ---
 
 See also: [Odometry](definitions/odometry.md)

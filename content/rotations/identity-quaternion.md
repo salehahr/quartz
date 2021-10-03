@@ -4,7 +4,6 @@ date: "2021-05-14"
 tags:
   - -sa/processed
   - math/quaternions
-  - -published
 ---
 
 **Parent**: [Quaternion index](rotations/quaternion-index.md)  

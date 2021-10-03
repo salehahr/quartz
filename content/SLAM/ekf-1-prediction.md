@@ -7,6 +7,8 @@ tags:
 - -published
 ---
 
+**Parent**: [Basic EKF for SLAM](SLAM/basic-ekf-for-slam.md)
+
 **Source**: [SLAM for Dummies](bibliography/riisgaard-slam-for-dummies.md)
 
 First step in the three-step [EKF](SLAM/basic-ekf-for-slam.md)

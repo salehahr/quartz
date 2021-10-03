@@ -5,7 +5,6 @@ tags:
   - -definitions
   - -sa/processed
   - math/rotations
-  - -published
 ---
 
 **Source**: [Forster 2017 -- IMU Preintegration](forster-2017-imu-preintegration.md)

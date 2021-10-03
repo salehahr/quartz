@@ -1,5 +1,6 @@
 enableLegend: false
 enableDrag: true
 enableZoom: true
+search: "tag:#-published -tag:#-published/meta -tag:#-resources/-bibliography -tag:#-master"
 paths:
   - /moc: "#4388cc"

@@ -7,9 +7,20 @@ tags:
   - -sa/processed
   - localisation/odometry
   - -published
+  - to-do
 ---
 
 **See also**: [Egomotion (vs odometry)](definitions/egomotion-vs-odometry.md)
+
+
+
+**Source**: [https://en.wikipedia.org/wiki/Dead\_reckoning](https://en.wikipedia.org/wiki/Dead_reckoning)  
+
+In navigation, dead reckoning is the process of calculating one's current position by using a previously determined position, by using estimations of speed and course over elapsed time
+
+- [ ] s. Brian Douglas video on sensor fusion
+
+---
 
 **Source**: [Wikipedia Visual odometry](studienarbeit/wikipedia-visual-odometry.md)
 

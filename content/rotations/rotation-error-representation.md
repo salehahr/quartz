@@ -25,9 +25,8 @@ In terms of...
 Rotation vector
 ![unknown_filename.2.png](studienarbeit/_resources/Rotation_error_representation.resources/unknown_filename.2.png)
 
-Quaternion
+[Quaternions](rotations/unit-quaternions.md)
 ![unknown_filename.png](studienarbeit/_resources/Rotation_error_representation.resources/unknown_filename.png)
-s. also [quaternion-double-cover](rotations/quaternion-double-cover.md)
 
 Euler angles
 ![unknown_filename.3.png](studienarbeit/_resources/Rotation_error_representation.resources/unknown_filename.3.png)

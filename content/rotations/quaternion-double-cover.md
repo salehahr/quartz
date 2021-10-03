@@ -25,7 +25,7 @@ where $\phi$ is the angle rotated by $\mathbf{q}$ on objects in the 3D space $\m
 ![quaternion-double-cover](_img/quaternion-double-cover.png)
 
 ### Recap
-* $\theta$ is the angle in quaternion space
+* $\theta$ is the angle in quaternion space (s. [unit quaternions](rotations/unit-quaternions.md))
 * $\phi$ as the angle in 3D space $\mathbb{R}^3$
 
 Therefore, the angle is halved in quaternion space.

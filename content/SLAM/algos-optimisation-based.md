@@ -10,10 +10,11 @@ tags:
 
 **Source**: [Wu 2018](bibliography/wu-2018.md)
 
-Uses nonlinear optimization
-may potentially achieve higslamher accuracy due to the capability to limit linearization errors through repeated linearization of the inherently nonlinear problem
+* Uses nonlinear optimization
+* may potentially achieve higher accuracy due to the capability to limit linearization errors through repeated linearization of the inherently nonlinear problem
 
-*   \[117\] Forster: preintegration theory
+<pre></pre>
+*   \[117\] [Forster 2017](studienarbeit/forster-2017-imu-preintegration.md): preintegration theory
 *   \[118\] OKVIS: a novel approach
     *   to tightly integrate visual measurements with IMU
     *   optimise a joint nonlinear cost function that integrates an IMU error term with the landmark reprojection error in a fully probabilistic manner

@@ -5,7 +5,6 @@ tags:
   - -definitions
   - -sa/processed
   - math
-  - -published
 ---
 
 **Source**: <https://www.euclideanspace.com/maths/geometry/space/surfaces/manifold/index.htm>

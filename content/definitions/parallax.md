@@ -5,7 +5,6 @@ tags:
   - -definitions
   - -sa/processed
   - vision
-  - -published
 ---
 
 **Source**: <https://en.wikipedia.org/wiki/Parallax>  

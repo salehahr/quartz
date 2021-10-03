@@ -9,7 +9,7 @@ tags:
 Source: [SLAM for Dummies](slam-for-dummies.md)
 Backlinks:  [EKF matrices/vectors](ekf-matrices_vectors.md)
 
-Estimate of the range and bearing (from landmark) in  [Step 2: Re-observation](step-2-re-observation.md)
+Estimate of the range and bearing (from landmark) in  [Step 2: Re-observation](studienarbeit/ekf-2-reobservation.md)
 
 ![unknown_filename.png](./_resources/Measurement_model.resources/unknown_filename.png)
 

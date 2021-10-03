@@ -15,10 +15,9 @@ tags:
 
 *   relative (interoceptive sensors)
     *   [odometry](definitions/odometry.md)
-*   absolute (exteroceptive sensors)
+*   [absolute](sensors/sensors-absolute.md) (exteroceptive sensors)
     *   can be used alongside relative measurement sensors in order to correct odometry drift
-    *   s. [major sensor types in SLAM (absolute measurements)](sensors/sensors-absolute.md) incl. [visual sensors](sensors/visual-sensors-for-localisation.md)
-    *   Beacons
+    *   beacons
         *   direct measurement instead of integrating, therefore error in position does not grow unbounded
         *   e.g. laser ranger finders, wifi (collect signal strength across field), GPS (bad for indoors)
             *   Lidar, Ultra Wide Band (UWB), Wireless Fidelity, etc \[[Wu](bibliography/wu-2018.md)\]

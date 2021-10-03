@@ -5,7 +5,6 @@ tags:
   - SLAM/loop-detection
   - SLAM/algos/VIORB
   - -sa/processed
-  - -published
 ---
 
 **Source**: [Mur-Artal 2017 VI-ORB](bibliography/mur-artal-2017-vi-orb.md)  

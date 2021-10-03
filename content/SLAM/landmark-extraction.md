@@ -4,7 +4,6 @@ date: "2020-08-06"
 tags:
   - localisation/landmarks
   - -sa/processed
-  - -published
 ---
 
 **Source**: [SLAM for Dummies](bibliography/riisgaard-slam-for-dummies.md)

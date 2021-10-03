@@ -6,7 +6,6 @@ tags:
   - -sa/processed
   - math/rotations
   - math/quaternions
-  - -published
 ---
 
 **Parents**: [Quaternion index](rotations/quaternion-index.md), [rotations / so(3) group-index](rotations-so3-group-index.md)  

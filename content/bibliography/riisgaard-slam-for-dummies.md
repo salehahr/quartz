@@ -29,9 +29,9 @@ Chapters
     *   Robot
     *   Range measurement device
 6.  [SLAM process](http://www.evernote.com/shard/s484/nl/217355218/dad6e2b1-b186-40d3-94f5-3064f1043376)
-    1.  [Step 1: Odometry update](SLAM/step-1-odometry-update-prediction-step.md)
-    2.  [Step 2: Reobservation](studienarbeit/step-2-re-observation.md)
-    3.  [Step 3: Add new landmarks](studienarbeit/step-3-new-landmarks.md)
+    1.  [Step 1: Odometry update](SLAM/ekf-1-prediction.md)
+    2.  [Step 2: Reobservation](studienarbeit/ekf-2-reobservation.md)
+    3.  [Step 3: Add new landmarks](studienarbeit/ekf-3-new-landmarks.md)
 7.  Laser data
 8.  [Odometry data](http://www.evernote.com/shard/s484/nl/217355218/d6e4227d-18b0-4633-9967-b72012e0cd6b)
 9.  [Landmarks](SLAM/landmarks.md)

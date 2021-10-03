@@ -12,7 +12,7 @@ tags:
 **Source**: [Mur-Artal 2017 VI-ORB](bibliography/mur-artal-2017-vi-orb.md)
 
 *   Cheap but also with good potential
-*   Cameras provide rich information but are relatively cheap
+*   [Cameras](sensors/visual-sensors-for-localisation.md) provide rich information but are relatively cheap
 *   [IMU](sensors/imu.md)
     *   provides self-motion info, helps recover scale in monocular applications
     *   enables estimation of the direction of gravity --> renders pitch and roll observable

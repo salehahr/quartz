@@ -4,12 +4,11 @@ date: "2020-07-27"
 tags:
   - localisation/landmarks
   - -sa/processed
-  - -published
 ---
 
 **Source**: [SLAM for Dummies](bibliography/riisgaard-slam-for-dummies.md)
 
-Random Sampling Consensus
+# Random Sampling Consensus
 
 *   to extract lines from a laser scan
 *   lines then used as landmarks

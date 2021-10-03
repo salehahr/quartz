@@ -13,8 +13,9 @@ tags:
 
 **Source**: [Markley 2014](bibliography/markley-2014.md)
 
+# [Unit quaternion](rotations/unit-quaternions.md) to rotation matrix
+
 ![unknown_filename.png](studienarbeit/_resources/Quaternion_to_rotation_matrix.resources/unknown_filename.png)
-s. [quaternion double cover](rotations/quaternion-double-cover.md) for a non-explanation on why the angle is halved
 
 ![unknown_filename.1.png](studienarbeit/_resources/Quaternion_to_rotation_matrix.resources/unknown_filename.1.png)
 

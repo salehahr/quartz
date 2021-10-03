@@ -10,7 +10,5 @@ tags:
 
 Source: [http://de.wikipedia.org/wiki/Lokalisierung\_(Robotik](http://de.wikipedia.org/wiki/Lokalisierung_(Robotik))
 
-[Localisation](localisation.md)
-[Particle filters](particle-filters.md)
-[Categories of sensors for localisation](categories-of-sensors-for-localisation.md)
-
+* [Localisation](localisation.md)
+* [Particle filters](particle-filters.md)

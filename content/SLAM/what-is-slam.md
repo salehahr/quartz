@@ -7,6 +7,9 @@ tags:
   - -published
 ---
 
+**Parent**: [SLAM index](SLAM/slam_index.md)  
+**See also**: [slam-hardware](sensors/slam-hardware.md)
+
 **Source**: [Scaradozzi 2018](studienarbeit/scaradozzi-2018.md)
 
 Process which allows a mobile robot to
@@ -38,7 +41,7 @@ Simultaneous localization and mapping (SLAM)
 **Goal**: to use the environment to update robot position
 
 *   robot odometry is often erroneous, therefore we cannot rely directly on odometry
-*   in this specific example, laser scans are used to correct the position of the robot in an EKF implementation
+*   in this specific example, laser scans are used to correct the position of the robot in a [basic EKF-SLAM](SLAM/basic-ekf-for-slam.md) implementation
     *   extract features from environment
     *   update position estimate based on the features
     *   re-observe when the robot moves around
@@ -60,7 +63,7 @@ With a map (i.e. prior knowledge of environment, e.g. via storage of known landm
 
 Without a map
 
-*   [Dead-reckoning](definitions/dead-reckoning.md) (odometry) would quickly drift over time
+*   [Dead-reckoning / odometry](definitions/odometry.md) would quickly drift over time
 *   [Data association](SLAM/data-association.md) becomes much more difficult
     *   Unknown mapping b/w existing landmarks and observations
 

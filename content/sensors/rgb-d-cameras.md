@@ -4,7 +4,6 @@ date: "2020-07-30"
 tags:
   - sensors/cameras
   - -sa/processed
-  - -published
 ---
 
 **Source**: [Cometlabs](bibliography/cometlabs.md)

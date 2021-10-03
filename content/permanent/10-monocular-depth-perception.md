@@ -5,7 +5,6 @@ tags:
   - -sa/processed
   - vision
   - -permanent
-  - -published
 ---
 
 ## Depth perception in real life
