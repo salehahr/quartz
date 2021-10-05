@@ -7,7 +7,7 @@ tags:
   - SLAM/algos/DefSLAM
 ---
 
-Source: [Lamarca 2019 DefSLAM](lamarca-2019-defslam.md)
+Source: [lamarca-2020](studienarbeit/lamarca-2020.md)
 **Backlinks**: [NRSfM in DefSLAM](nrsfm-in-defslam.md)
 
 *   Matching between keyframes (used in deformation mapping in DefSLAM)

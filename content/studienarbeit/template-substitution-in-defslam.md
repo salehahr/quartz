@@ -6,17 +6,17 @@ tags:
   - SLAM/algos/DefSLAM
 ---
 
-Parent: [Mapping step-by-step in DefSLAM](mapping-step-by-step-in-defslam.md)
-Source: [Lamarca 2019 DefSLAM](lamarca-2019-defslam.md)
+**Parent**: [Mapping step-by-step in DefSLAM](mapping-step-by-step-in-defslam.md)  
+**Source**: [lamarca-2020](studienarbeit/lamarca-2020.md)
 
 ![Image.png](./_resources/Template_substitution_in_DefSLAM.resources/Image.png)
 
 *   Tracking runs at frame-rate, and mapping at keyframe-rate
 *   Tracking processes Nm frames during a whole mapping run
 
-Process
+## Process
 
-1.  New keyframe (k) is made. Now at time t=k
+1.  New keyframe $k$ is made. Now at time $t=k$
     *   At this point, the template in the tracking is still based on the old shape-at-rest, S\_(k-1)
     *   Mapping thread starts
         *   creates surface S\_k which is aligned to prev. template T\_(k-1)

@@ -1,17 +1,33 @@
 ---
-title: Non-rigid monocular techniques in the literature
+title: Shape from Motion
 date: "2020-11-20"
 tags:
   - to-do/go-through-literature-later
   - SLAM/deformable-SLAM
   - to-do/not-good-enough
   - -sa/to-be-processed
+  - -published
 ---
 
-Source: [Lamarca 2019 DefSLAM](lamarca-2019-defslam.md)
 
-SfT methods
+Initial paper?: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7010934https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7010934
 
+## Goal
+reconstruct the surface of an object
+* reference 3D shape (template) of the object is available
+* under a specific deformation constraint
+
+---
+
+**Source**: [lamarca-2020](studienarbeit/lamarca-2020.md)
+
+## SFT (shape from template)
+
+*   uses only a single image — faster than [nrsfm](studienarbeit/nrsfm.md)
+*   lower computational cost
+*   must have a known 3D template (textured model)
+
+### SfT methods
 *   require:
     *   1 monocular image
     *   1 textured shape at rest (template) "geometry" as the deformation model
@@ -26,23 +42,3 @@ SfT methods
     *   physics-based
         *   uses mathematical models (based on physical laws) in order to compute the space of deformations
         *   e.g. isometric model
-
-Orthographic NRSfM
-
-*   usually fails with very large deformations
-*   uses an orthographic camera projection/model
-*   (weak approximation to the perspective camera) — a limitation, as many vision-related applications have a significant perspective effect
-*   exploits
-    *   spatial constraints
-    *   temporal constraints
-    *   spatiotemporal constraints
-*   usually ok for small deformations, but not for very large deformations
-
-Perspective NRSfM
-
-*   the perspective camera model is more accurate than the orthographic one
-*   also uses the isometry assumption (as in SfT methods), which has produced good results in NRSfM
-*   Parashar 2018 "Isometric NRSfM" \[6\] local method that handles occlusions and missing data well
-
-In DefSLAM: energy-based SfT and isometric NRSfM are used.
-

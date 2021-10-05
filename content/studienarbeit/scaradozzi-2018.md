@@ -9,25 +9,26 @@ tags:
   - -sa/processed
 ---
 
-Abstract:
+## Abstract:
 
 *   SLAM's potential in image-guided surgery assuming static environment
 *   Review of main techniques in general robotics SLAM
 *   Insight into visual SLAM
 *   SLAM in surgery
 
-Chapters
-[What is SLAM?](what-is-slam_.md)
-[Filter-based vs optimisation-based SLAM](filter-based-vs-optimisation-based-slam.md)
+## Chapters
+* [what-is-slam](SLAM/what-is-slam.md)
+* [Filter-based vs optimisation-based SLAM](filter-based-vs-optimisation-based-slam.md)
 
-[General Kalman Filter](general-kalman-filter.md)
-[General EKF](general-ekf.md)
-[Unscented Kalman Filter](unscented-kalman-filter.md)
-[Information Filter](information-filter.md)
+<pre></pre>
+* [General Kalman Filter](general-kalman-filter.md)
+* [General EKF](general-ekf.md)
+* [Unscented Kalman Filter](unscented-kalman-filter.md)
+* [Information Filter](information-filter.md)
 
 ....
 
-Takeaway
+## Takeaway
 
 *   EKF is popular in surgery SLAM techniques
 *   Deformable environment encumbers precise registration [ ]  and data fusion

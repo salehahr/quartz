@@ -4,15 +4,15 @@ date: "2020-08-03"
 tags:
   - SLAM/sparse-vs-dense
   - -sa/processed
+  - -published
 ---
 
 Parent: [SLAM Index](SLAM/slam_index.md)
 
-Source: [Cometlabs What You Need to Know About SLAM](cometlabs what you-need-to-know-about-slam.md)
+Source: [cometlabs](bibliography/cometlabs.md)
 
-|     |     |
+| Feature-based (aka [sparse](studienarbeit/sparse-feature-based-vslam.md)) | direct (aka [dense](studienarbeit/dense-direct-vslam.md)) |
 | --- | --- |
-| Feature-based (aka [sparse](sparse.md)) | direct (aka [dense](dense.md)) |
 | Extraction of features required | No abstraction necessary |
 | Aims to minimise error between point location estimate (from odometry) and location based on camera | Tracks objects by minimising photometric error (intensity differences) |
 

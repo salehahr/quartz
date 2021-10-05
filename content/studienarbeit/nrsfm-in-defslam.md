@@ -6,21 +6,25 @@ tags:
   - -sa/processed
   - to-do/missing-link
   - SLAM/algos/DefSLAM
+  - -published
 ---
 
-Parent: [Mapping step-by-step in DefSLAM](mapping-step-by-step-in-defslam.md)
-Source: [Lamarca 2019 DefSLAM](lamarca-2019-defslam.md)
+**Parent**: [Mapping step-by-step in DefSLAM](mapping-step-by-step-in-defslam.md)
+**Source**: [lamarca-2020](studienarbeit/lamarca-2020.md)
 
-Assumptions
+**See also**: [NRSfM](studienarbeit/nrsfm.md)
+
+## Assumptions
 
 *   Isometric deformation
 *   Infinitesimal planarity \[DEF\]: any surface can be approximated as a plane at infinitesimal level, all the while maintaining its curvature at a global level
 
+## Locality
 The method used here is a local method --> implies that it handles missing data and occlusions inherently
 
 *   surface deformation is modelled locally for each point, under the above assumptions
 
-Embedding, phi\_k of the scene surface
+## Embedding, $\phi_k$ of the scene surface
 
 *   is a parametrisation — transforms an image point to a point on a 3D surface
 *   uses the normalised coordinates of the image Ik (xhat, yhat)
@@ -31,7 +35,7 @@ Embedding, phi\_k of the scene surface
 | ![unknown_filename.1.png](./_resources/NRSfM_in_DefSLAM.resources/unknown_filename.1.png) |
 | ![Image.png](./_resources/NRSfM_in_DefSLAM.resources/Image.png) |
 
-Procedure
+## Procedure
 
 1.  A point is matched in more than two keyframes (warps are used in the [matching process](matching-process.md))
     *   We can calculate its normal in its anchor keyframe k
@@ -53,11 +57,11 @@ Procedure
     *   the spline is parametrised by its control nodes depth
 5.  Fit node depth to get a surface orthogonal to the estimated normals; use a regulariser in terms of bending energy
 6.  The final depth estimation is then up-to-scale
-    *   the embedding phi\_k
+    *   the embedding $\phi_k$
     *   the up-to-scale surface 
         ![Image.1.png](./_resources/NRSfM_in_DefSLAM.resources/Image.1.png)
         
 
-NRSfM math
+## NRSfM math
 ![unknown_filename.4.png](./_resources/NRSfM_in_DefSLAM.resources/unknown_filename.4.png)
 

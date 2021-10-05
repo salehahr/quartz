@@ -8,15 +8,15 @@ tags:
   - -sa/to-be-processed
 ---
 
-Authors Chen et al
+**Authors** Chen et al
 
-Abstract
+## Abstract
 
 *   Intra-operative dense surface reconstruction framework to provide geometry information from only monocular videos
 *   The proposed framework works well with rapid camera movements, however is not suitable for large deformations
 *   Only tweaks ORBSLAM to adjust between point density and computational performance
 
-Contents/Chapters
+## Contents/Chapters
 Problems in medical AR:
 
 *   tissue surface illumination
@@ -25,7 +25,7 @@ Problems in medical AR:
 *   field of view often very small
 
 "A typical human uses 14 visual cues to perceive depth, only 3/14 are binocular vision related."
-s. also: [Monocular depth perception in humans](monocular-depth-perception-in-humans.md)
+s. also: [Monocular depth perception in humans](permanent/10-monocular-depth-perception.md)
 
 Traditional feature-tracking for AR in MIS:
 
@@ -55,7 +55,7 @@ Inialisation is problematic for monocular SLAM because the depth isn't recoverab
 *   for planar scenes: calculate homography
 *   for non-planar scenes: calculate a fundamental matrix dynamically
 
-Takeaway
+## Takeaway
 
 Not suitable for large deformations
 
