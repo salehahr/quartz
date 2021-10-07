@@ -4,9 +4,11 @@ date: "2020-11-25"
 tags:
   - -sa/processed
   - SLAM/algos/DefSLAM
+  - -published
 ---
 
 **Parent**: [Mapping step-by-step in DefSLAM](mapping-step-by-step-in-defslam.md)  
+
 **Source**: [lamarca-2020](studienarbeit/lamarca-2020.md)
 
 ![Image.png](./_resources/Template_substitution_in_DefSLAM.resources/Image.png)
@@ -25,7 +27,7 @@ tags:
 2.  At time t=k+Nm, use data from the tracking thread
     *   image points at t=k+Nm
     *   deform the recently computed template T\_k based on these images
-        *   use [SfT but neglecting the temporal term](sft-but-neglecting-the-temporal-term.md) (to allow large deformation, "as a lot might have happened in the time span of Nm")
+        *   use [SfT but neglecting the temporal term](studienarbeit/tracking-optimisation-in-defslam.md) (to allow large deformation, "as a lot might have happened in the time span of Nm")
         *   so now we get a T\_k that is deformed (updated) to the most recent image points
     *   we do this extra step instead of passing T\_k (from step 1) to the tracker immediately because, due to the new points occurring at t=k+Nm, using the original T\_k might lead to data association errors
     *   mapper passes the new template T\_k (t=k+Nm) to the tracker

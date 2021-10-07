@@ -5,10 +5,11 @@ tags:
   - -definitions
   - -sa/processed
   - medical/surgery/endoscope
+  - -published
 ---
 
 **Source**: [Leiner](leiner.md)
 
-distal: far from the surgeon
+distal: far from the surgeon  
 proximal: near the surgeon
 

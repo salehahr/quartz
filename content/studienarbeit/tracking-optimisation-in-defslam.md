@@ -7,11 +7,9 @@ tags:
   - SLAM/algos/DefSLAM
 ---
 
-Source: [Lamarca 2019 DefSLAM](lamarca-2019-defslam.md)
-Backlinks: [Template substitution in DefSLAM](template-substitution-in-defslam.md)
+**Source**: [lamarca-2020](studienarbeit/lamarca-2020.md)
 
-Optimisation function
-
+## Optimisation function
 *   Minimises
     *   reprojection error (in the image)
     *   deformation energy (of the template)
@@ -22,10 +20,11 @@ Optimisation function
 
 ![unknown_filename.1.png](./_resources/Tracking_optimisation_in_DefSLAM.resources/unknown_filename.1.png)
 
-Reprojection error
+### Reprojection error
 ![unknown_filename.png](./_resources/Tracking_optimisation_in_DefSLAM.resources/unknown_filename.png)
 robust against outliers due to Huber robust kernel
 
+### Deformation energy
 Deformation energy = stretching energy + bending energy + temporal term
 ![unknown_filename.2.png](./_resources/Tracking_optimisation_in_DefSLAM.resources/unknown_filename.2.png)
 

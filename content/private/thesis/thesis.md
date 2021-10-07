@@ -63,7 +63,7 @@ tags:
 
 ## Background
 
-*   [Endoscopes](permanent/30-endoscopes.md)
+*   [Endoscopes](permanent/30-endoscopes-index.md)
     *   Components and specifications
     *   Effect of the angled tip -- direction of view
     *   Coupling mechanism, [modes of operation of the scope](studienarbeit/modes-of-operation-of-the-scope.md)

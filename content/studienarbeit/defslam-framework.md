@@ -7,7 +7,8 @@ tags:
   - -published
 ---
 
-Source: [Lamarca 2020 DefSLAM](lamarca-2020.md)
+**Source**: [Lamarca 2020 DefSLAM](lamarca-2020.md)  
+**See also**: [template-substitution-in-defslam](studienarbeit/template-substitution-in-defslam.md)
 
 "Fusion of the methods available for processing non-rigid monocular scenes"
 
@@ -21,7 +22,7 @@ Source: [Lamarca 2020 DefSLAM](lamarca-2020.md)
     *   Map points are deformed (updated) by solving an optimisation problem
         min { reprojection error + deformation energy } per frame
         
-2.  [Deformation mapping](deformation-mapping.md) \[back end\]
+2.  [Deformation mapping](studienarbeit/mapping-step-by-step-in-defslam.md) \[back end\]
     *   periodically re-estimate template to adapt it to current observation (deformed map points from tracking)
     *   extends the map as it provides the updated geometry for when new regions are visited
     *   operates at keyframe rate

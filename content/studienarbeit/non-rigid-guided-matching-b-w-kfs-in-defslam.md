@@ -7,15 +7,13 @@ tags:
   - SLAM/algos/DefSLAM
 ---
 
-Source: [lamarca-2020](studienarbeit/lamarca-2020.md)
-**Backlinks**: [NRSfM in DefSLAM](nrsfm-in-defslam.md)
+**Source**: [lamarca-2020](studienarbeit/lamarca-2020.md)
 
 *   Matching between keyframes (used in deformation mapping in DefSLAM)
-
 *   Use an estimated warp as a reference
     *   To increase number of matches in the covisible keyframes
 
-**Process**
+## Process
 
 1.  Matches are given by deformation tracking
 2.  Estimate an initial warp between k and k\* (covisible keyframes) [ ] how?

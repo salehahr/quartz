@@ -37,7 +37,7 @@ The method used here is a local method --> implies that it handles missing data 
 
 ## Procedure
 
-1.  A point is matched in more than two keyframes (warps are used in the [matching process](matching-process.md))
+1.  A point is matched in more than two keyframes (warps are used in the [matching process](studienarbeit/non-rigid-guided-matching-b-w-kfs-in-defslam.md))
     *   We can calculate its normal in its anchor keyframe k
     *   The normal is defined by the variables K below
 2.  Perform nonlinear optimisation to recover the variables K (which appear in the vector of the normal to surface)
