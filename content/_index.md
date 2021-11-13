@@ -11,7 +11,7 @@ This implementation is optimised for view in [Obsidian](https://www.obsidian.md/
 The web version is currently very buggy.
 
 ## Master's thesis
-* [Meeting minutes](private/minutes/ma-minutes.md)
+Coming soon
 
 
 <pre></pre>
