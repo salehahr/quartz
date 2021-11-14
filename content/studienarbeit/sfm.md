@@ -16,7 +16,7 @@ tags:
 # Structure from motion
 Reconstruction of 3D structure from a sequence of 2D images of that structure, taken from different viewpoints.
 
-![](_img/sfm-pipeline.png)
+![](/_img/sfm-pipeline.png)
 1. Search for correspondence between images --> output: scene graph (nodes: images, edges: verified pairs)
 	1. Feature extraction
 	2. [Feature matching](studienarbeit/feature-matching.md)  

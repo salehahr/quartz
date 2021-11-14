@@ -27,7 +27,7 @@ $$
 	\end{array} \right]
 $$
 
-![](_img/quaternion_definition.png)
+![](/_img/quaternion_definition.png)
 
 with
 * $\mathbf{u}$ as a unit vector

@@ -18,4 +18,4 @@ Most common method to get candidate key frames: use a place recognition approach
     *   the histogram is used to compare similarity of images
     *   I think similar images then get filtered out, so we get key frames
 
-![kf-loop-closure](_img/kf-loop-closure.png)
+![kf-loop-closure](/_img/kf-loop-closure.png)

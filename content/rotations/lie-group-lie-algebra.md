@@ -41,7 +41,7 @@ $$
 	\end{array}\right] \in \mathfrak{so}(3)
 $$
 
-![lie-group-maps](_img/lie-group-maps.png)
+![lie-group-maps](/_img/lie-group-maps.png)
 
 **Mappings**:
 * [Exponential map](rotations/exponential-map.md)

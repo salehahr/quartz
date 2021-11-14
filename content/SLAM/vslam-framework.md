@@ -16,7 +16,7 @@ tags:
 *   these tracks are used to triangulate the 3D positions of the points to create the map
 *   at the same time, using the the est point locations to calculate the pose of the camera, which could have observed them (i.e. calculate real time 3D structure of a scene from the estimated motion of the camera)
 
-![vslam-triangulation](_img/vslam-triangulation.png)
+![vslam-triangulation](/_img/vslam-triangulation.png)
 
 ## Architecture
 
@@ -29,5 +29,5 @@ tags:
 2.  [Back-end](studienarbeit/back-end-optimisation.md)
     *   Performs inference on the abstracted data produced by the front end
 
-![vslam-architecture](_img/vslam-architecture.png)
+![vslam-architecture](/_img/vslam-architecture.png)
 

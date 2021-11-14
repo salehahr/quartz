@@ -15,7 +15,7 @@ tags:
 
 ## Example: UAV attitude estimation
 
-![uav-angles](_img/uav-angles.png)
+![uav-angles](/_img/uav-angles.png)
 
 **Goal**:
 * To estimate roll and pitch angles of aircraft

@@ -7,4 +7,4 @@ tags:
   - medical/surgery/endoscope
 ---
 
-![modes-operation-scope](_img/modes-operation-scope.png)
+![modes-operation-scope](/_img/modes-operation-scope.png)

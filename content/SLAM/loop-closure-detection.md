@@ -16,7 +16,7 @@ tags:
 *   A long-term data association in the [VSLAM Framework](SLAM/vslam-framework.md) (part of front end)
 *   Sort of incorporates [topological SLAM](topological-slam.md) into metric SLAM
 
-![loop-closure](_img/loop-closure.png)
+![loop-closure](/_img/loop-closure.png)
 
 ## Importance
 
