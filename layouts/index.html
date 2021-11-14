@@ -14,7 +14,7 @@
     </header>
     
     <article>
-        {{if $.Site.Data.config.enableToc}}
+        {{if and ($.Site.Data.config.enableToc) (.Params.toc) }}
         <aside class="mainTOC">
             <h3>Table of Contents</h3>
             {{ .TableOfContents }}

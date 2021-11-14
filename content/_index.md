@@ -2,6 +2,7 @@
 title: Zettelkasten
 aliases:
 - /_index/
+toc: false
 ---
 
 # Zettelkasten
@@ -16,7 +17,7 @@ Coming soon
 
 <pre></pre>
 ## Studienarbeit
-* [Permanent notes](/permanent/_index.md)
+* [Permanent notes](permanent/_index.md)
 * [SLAM index](SLAM/slam_index.md)
 * [Rotations index](rotations/rotations-so3-group-index.md)
 * [Quaternion index](rotations/quaternion-index.md)
