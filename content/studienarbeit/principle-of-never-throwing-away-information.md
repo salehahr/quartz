@@ -5,11 +5,11 @@ tags:
   - -sa/processed
 ---
 
-Source: [rlabbe Kalman/Bayesian filters in Python](rlabbe-kalman_bayesian-filters-in-python.md)
+Source: [rlabbe](studienarbeit/rlabbe-kalman-bayesian-filters-in-python.md)
 
 "Two sensors are better than one, even if one is less accurate than the other."
 
-Example 1
+## Example 1
 Given:
 
 *   A: a more accurate sensor
@@ -22,7 +22,7 @@ No, because B can improve our knowledge when combined with A.
 
 Using the measurements from B further narrows the range of estimates (overlap between the error bars).
 
-Example 2
+## Example 2
 Assume:
 
 *   Scale A has an error of +- 1kg
