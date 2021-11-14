@@ -12,19 +12,19 @@ tags:
   - SLAM/deformable
 ---
 
-URL: <http://arxiv.org/abs/1908.08918>
-Authors: Lamarca et al
-Code: <http://github.com/UZ-SLAMLab/DefSLAM>
-Results (video): [http://www.youtube.com/watch?v=6mmhD2\_t6Gs](http://www.youtube.com/watch?v=6mmhD2_t6Gs)
+**URL**: <http://arxiv.org/abs/1908.08918>  
+**Authors**: Lamarca et al  
+**Code**: <http://github.com/UZ-SLAMLab/DefSLAM>  
+**Results** (video): [http://www.youtube.com/watch?v=6mmhD2\_t6Gs](http://www.youtube.com/watch?v=6mmhD2_t6Gs)
 
-Summary
+## Summary
 
 *   First monocular SLAM for deformable environments in real-time
     *   Most other SLAM implementations assume rigidity
 *   Main techniques used (techniques for monocular non-rigid scenes):
-    *   isometric shape from template (SfT)
-    *   non-rigid structure from motion (NRSfM)
-*   Main principle: computation in [two parallel threads (s. DefSLAM framework)](two-parallel-threads-(s.-defslam-framework).md)
+    *   isometric shape from template ([SfT](studienarbeit/sft.md))
+    *   non-rigid structure from motion ([NRSfM](studienarbeit/nrsfm.md))
+*   Main principle: computation in [two parallel threads (s. DefSLAM framework)](studienarbeit/defslam-framework.md)
     *   Deformation tracking \[front end\]
     *   Deformation mapping \[back end\]
 *   The map from the mapping thread defines the shape-at-rest template used by deformation tracking
@@ -32,27 +32,26 @@ Summary
 *   Assumes isometric deformation
 *   Future work: relocalisation (s. [kidnapped robot problem](kidnapped-robot-problem.md)), loop closure for robustness
 
-Introduction
-[Initialisation of monocular SLAM](SLAM/initialisation-of-monocular-slam.md)
-Most SLAM algorithms exploit the rigidity assumption!
-[NRSfM and SfT](nrsfm-and-sft.md)
-[DefSLAM framework](defslam-framework.md)
-[DefSLAM and discontinuous areas (classical datasets)](defslam-and-discontinuous-areas-(classical-datasets).md)
+## Contents
+1. Introduction
+2. [Initialisation of monocular SLAM](SLAM/initialisation-of-monocular-slam.md)
+3. Most SLAM algorithms exploit the rigidity assumption!
+4. [NRSfM](studienarbeit/nrsfm.md) and [SfT](studienarbeit/sft.md)
+5. [DefSLAM framework](defslam-framework.md)
+6. [DefSLAM and discontinuous areas (classical datasets)](studienarbeit/defslam-and-discontinuous-areas-classical-datasets.md)
 
-Related work
-... in visual SLAM
+## Related work
+* in visual SLAM
+	*   Existing deformable visual SLAM
+		*   mostly using RGB-D or stereo cameras
+		*   the ones mentioned optimise the whole map, but hier DefSLAM only optimises the observed map zone (local zone)
+	*   Rigid methods used in (semi-)deformable environments
+		*   assume negligible deformation
+		*   circumvent deformable situations by excluding any deformable regions from the map
 
-*   Existing deformable visual SLAM
-    *   mostly using RGB-D or stereo cameras
-    *   the ones mentioned optimise the whole map, but hier DefSLAM only optimises the observed map zone (local zone)
-*   Rigid methods used in (semi-)deformable environments
-    *   assume negligible deformation
-    *   circumvent deformable situations by excluding any deformable regions from the map
+In DefSLAM: [energy-based SfT](studienarbeit/sft.md) and [isometric NRSfM](studienarbeit/nrsfm.md) are used.
 
-... [non-rigid monocular techniques in the literature](non-rigid-monocular-techniques-in-the-literature.md)
-In DefSLAM: energy-based SfT and isometric NRSfM are used.
-
-Notation
+## Notation
 
 |     |     |
 | --- | --- |
@@ -69,10 +68,10 @@ Notation
 | Anchor keyframe \[of a map point\] | *   Keyframe in which a map point is initialised<br>*   After each new KF processing, one of the anchor KFs is selected as the reference KF |
 | Reference keyframe | Defines the template used by the deformation tracking |
 
-Tracking
+## Tracking
 Components: map/template, local zone, camera pose
 
-Stages of tracking:
+## Stages of tracking:
 
 1.  Data association
 2.  Camera pose estimation
@@ -86,10 +85,10 @@ Stages of tracking:
 [Tracking optimisation in DefSLAM](tracking-optimisation-in-defslam.md)
 [Data association in DefSLAM](data-association-in-defslam.md)
 
-Keyframe selection
+## Keyframe selection
 A new keyframe is selected when the mapping finishes the last estimation, i.e. new keyframe at the end of each deformation mapping run
 
-Mapping
+## Mapping
 In a nutshell:
 
 *   recovers observed map as a surface for the next keyframe k
@@ -103,7 +102,7 @@ In a nutshell:
 
 [Non-Rigid Guided Matching (b/w KFs) in DefSLAM](non-rigid guided-matching-(b_w-kfs)-in-defslam.md)
 
-Validation results
+## Validation results
 In the experiments, DefSLAM was run sequentially in a single thread (for repeatability)!
 
 ![unknown_filename.png](./_resources/[Lamarca_2020]_DefSLAM.resources/unknown_filename.png)

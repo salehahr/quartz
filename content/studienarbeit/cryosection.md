@@ -6,13 +6,13 @@ tags:
   - medical/cancer
   - -definitions
   - -sa/processed
+  - -published
 ---
 
-Source: [https://en.wikipedia.org/wiki/Frozen\_section\_procedure](https://en.wikipedia.org/wiki/Frozen_section_procedure)
-Backlinks:  [GRK 2543: Intraoperative Multi-sensor Tissue Differentiation in Oncology](GRK 2543_ Intraoperative Multi-sensor Tissue Differentiation in Oncology.md)
+**Source**: [https://en.wikipedia.org/wiki/Frozen\_section\_procedure](https://en.wikipedia.org/wiki/Frozen_section_procedure)  
 
 *   aka frozen section procedure
-*   allows rapid analysis of a dissected/resected specimen during the course of [surgery](surgery.md)
+*   allows rapid analysis of a dissected/resected specimen during the course of [surgery](studienarbeit/related-types-of-surgery.md)
 *   the specimen is frozen rapidly and brought to a lab for analysis
 *   the results are relayed to the surgeon by intercom
     *   benign or malignant

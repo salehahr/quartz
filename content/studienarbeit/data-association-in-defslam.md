@@ -8,7 +8,7 @@ tags:
   - SLAM/algos/DefSLAM
 ---
 
-**Source**: [Lamarca 2019 DefSLAM](lamarca-2019-defslam.md)
+**Source**: [Lamarca 2020 DefSLAM](lamarca-2020.md)
 **See also**: [Data association](SLAM/data-association.md)
 
 *   Goal: match keypoints in current frame (newly extracted) with map points (already in map/system)

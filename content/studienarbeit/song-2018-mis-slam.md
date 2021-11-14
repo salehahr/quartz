@@ -8,17 +8,18 @@ tags:
   - -sa/to-be-processed
 ---
 
-Authors Song et al
-Backlinks: referred to in [Lamarca 2019](lamarca-2019.md) as a stereovisual deformable SLAM, uses CPU and GPU, nonlinear optimisation
+**Authors**: Song et al
+
+**Note**: referred to in [Lamarca 2020](lamarca-2020.md) as a stereovisual deformable SLAM, uses CPU and GPU, nonlinear optimisation
 Video: <http://www.youtube.com/watch?v=2pXokldQBWM>
 
-Abstract
+## Abstract
 
 *   Uses CPU and GPU
 *   CPU for ORBSLAM (initial global position)
 *   GPU for deformable tracking and dense mapping
 
-Contents/Chapters
+## Contents/Chapters
 
 *   Poor localisation of scope in MIS, compared with open surgery
 *   Related works mentioned
@@ -30,13 +31,13 @@ Contents/Chapters
     *   worsens registrations
 *   ORB-SLAM proven to be suitable for coupling with dense deformable SLAM
 
-Initial tracking: ORB-SLAM
+## Initial tracking: ORB-SLAM
 
 *   ORB features and global pose are uploaded to GPU
 *   Upload the matched ORB features every time a new observation is made
 *   The initial global pose makes the system significantly robuster
 
-Deformable tracking and dense mapping
+## Deformable tracking and dense mapping
 
 *   Receives initial global pose from the CPU
 *   Initialises the model with an estimated depth
@@ -50,13 +51,13 @@ Deformable tracking and dense mapping
 
 Includes in-vivo validation with deformation (Hamlyn datasets)
 
-Challenges
+## Challenges
 
 *   Texture blending
 *   Slow optimisation due to large increase in number of nodes
 *   Loop closure still needs to be implemented (or improved upon)
 
-Takeaway
+## Takeaway
 
 ORB-SLAM seems to be implementable in deformable environment situations
 

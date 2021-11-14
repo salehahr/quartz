@@ -10,6 +10,11 @@ Welcome to my [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten).
 This implementation is optimised for view in [Obsidian](https://www.obsidian.md/).  
 The web version is currently very buggy.
 
+## Master's thesis
+Coming soon
+
+
+<pre></pre>
 ## Studienarbeit
 * [Permanent notes](/permanent/_index.md)
 * [SLAM index](SLAM/slam_index.md)
