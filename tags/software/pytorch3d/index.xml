@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>software/pytorch3d on Zettelkasten</title><link>https://salehahr.github.io/zettelkasten/tags/software/pytorch3d/</link><description>Recent content in software/pytorch3d on Zettelkasten</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><atom:link href="https://salehahr.github.io/zettelkasten/tags/software/pytorch3d/index.xml" rel="self" type="application/rss+xml"/><item><title>pytorch3d-cs</title><link>https://salehahr.github.io/zettelkasten/ma/pytorch3d-cs/</link><pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate><guid>https://salehahr.github.io/zettelkasten/ma/pytorch3d-cs/</guid><description>Coordinate systems in PyTorch3D To get camera coordinates in world CS:
+Camera.get_camera_center()
+Reference
+https://pytorch3d.org/docs/cameras</description></item></channel></rss>
