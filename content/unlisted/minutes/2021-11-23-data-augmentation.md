@@ -17,6 +17,6 @@
 ---
 
 
-![](debug-rotate-integer-matrix.png)
+![](/unlisted/debug-rotate-integer-matrix.png)
 The current rotation transformation:  
 Rotation of an integer matrix results in floats between 0 and 1.

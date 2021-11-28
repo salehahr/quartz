@@ -12,3 +12,4 @@ tags:
 * [2021-11-09](unlisted/minutes/2021-11-09.md)
 * [2021-11-16-static](unlisted/minutes/2021-11-16-static.md)
 * [2021-11-23](unlisted/minutes/2021-11-23.md)
+* [2021-11-30](unlisted/minutes/2021-11-30.md)
