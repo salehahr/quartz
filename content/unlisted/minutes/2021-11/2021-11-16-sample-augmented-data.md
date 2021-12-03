@@ -5,7 +5,7 @@ tags:
   - -ma
 ---
 
-**Parent**: [2021-11-16-static](unlisted/minutes/2021-11-16-static.md)
+**Parent**: [2021-11-16-static](unlisted/minutes/2021-11/2021-11-16-static.md)
 
 ## Sample input
 ![sample-input-with-gt](/_img/sample-input-with-gt.png)
