@@ -1,6 +1,9 @@
 ---
 title: ma-minutes
 date: 2021-10-28
+aliases:
+  - /unlisted/minutes/_index/
+  - /unlisted/minutes/index/
 tags:
   - -ma
 ---
@@ -11,6 +14,7 @@ tags:
 * [2021-11-03](unlisted/minutes/2021-11/2021-11-03.md)
 * [2021-11-09](unlisted/minutes/2021-11/2021-11-09.md)
 * [2021-11-16-static](unlisted/minutes/2021-11/2021-11-16-static.md)
+	* [2021-11-16-outcomes](private/2021-11-16-outcomes.md)
 * [2021-11-23](unlisted/minutes/2021-11/2021-11-23.md)
 * [2021-11-30](unlisted/minutes/2021-11/2021-11-30.md)
-* [2021-12-07](2021-12-07.md)
+* [2021-12-07](unlisted/2021-12-07.md)

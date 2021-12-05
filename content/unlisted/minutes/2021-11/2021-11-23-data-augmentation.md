@@ -2,11 +2,11 @@
 
 ![](/unlisted/minutes/data-aug-skel.png)
 
-![](/unlisted/minutes/data-aug-node-pos.png)
+![](/unlisted/_img/data-aug-node-pos.png)
 
-![](/unlisted/minutes/data-aug-degrees.png)
+![](/unlisted/_img/data-aug-degrees.png)
 
-![](/unlisted/minutes/data-aug-node-types.png)
+![](/unlisted/_img/data-aug-node-types.png)
 
 
 
@@ -17,6 +17,6 @@
 ---
 
 
-![](/unlisted/debug-rotate-integer-matrix.png)
+![](/unlisted/_img/debug-rotate-integer-matrix.png)
 The current rotation transformation:  
 Rotation of an integer matrix results in floats between 0 and 1.
