@@ -19,3 +19,4 @@ tags:
 * [2021-11-30](unlisted/minutes/2021-11/2021-11-30.md)
 * [2021-12-07](unlisted/minutes/2021-12-07.md)
 * [2021-12-14](unlisted/minutes/2021-12-14.md)
+	* [node-detection-model-first-run](unlisted/minutes/2021-12-14-node-detection-model-first-run.md)
