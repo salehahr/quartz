@@ -12,4 +12,9 @@
 	![](/unlisted/_img/first-run-pred-3.png)
 * Pred | Truth  
 	![](/unlisted/_img/first-run-pred-4.png)
-* ![](/unlisted/_img/first-run-loss%201.png)
+* Total loss  
+	![](/unlisted/_img/first-run-loss%201.png)
+* Partial losses  
+	![](/unlisted/_img/first-run-partial-losses.png)
+	* Node positions converge the fastest
+	* Node types converge the slowest
