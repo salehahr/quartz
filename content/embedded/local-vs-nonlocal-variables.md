@@ -31,7 +31,7 @@ int main()
 ## Instruction set
 | Local                                   | Non-local                                |
 | --------------------------------------- | ---------------------------------------- |
-| ![](embedded/_img/loop-disassembly.png) | ![](embedded/_img/nonlocal-disassembly.png) |
+| ![](/embedded/_img/loop-disassembly.png) | ![](/embedded/_img/nonlocal-disassembly.png) |
 
 * More instructions as the CPU needs to load data from memory (in [RISC](embedded/risc-cisc.md) architectures)
 	* Loading from memory
