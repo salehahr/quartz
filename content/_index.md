@@ -25,3 +25,4 @@ Coming soon
 
 <pre></pre>
 ## Other topics
+[Embedded systems programming](embedded/_index.md)
