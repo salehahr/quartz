@@ -31,7 +31,6 @@ tags:
 * [Local vs. non-local variables](embedded/local-vs-nonlocal-variables.md)
 * [Pointers](embedded/pointers.md)
 * [Volatile variables](embedded/volatile.md)
-
 ## Sample programs
 Using TM4C123G.
 * [Simple (linear) program](embedded/simple-program.md)
