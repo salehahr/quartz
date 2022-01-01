@@ -9,8 +9,7 @@ tags:
 
 Local variables are stored in the [register](embedded/registers-memory.md), while non-local variables can be found in [memory](embedded/registers-memory.md).
 
-## Example
-### Local variable
+## Local variable
 ```
 int main()
 {
@@ -19,7 +18,13 @@ int main()
 }
 ```
 
-### Non-local variable
+**Note**:
+* All local variables on the stack go out of scope (get located outside of stack when the stack shrinks) when the function returns, so they can't be accessed.
+* Therefore, it is a bad idea to return a local variable.
+	* Make use of [pointers](embedded/pointers.md) instead.
+	* Alternatively, use the `static` keyword to tell the compuler to allocate memory to the variable *outside* of the stack.
+
+## Non-local variable
 ```
 int counter = 0; 
 int main()
@@ -28,7 +33,7 @@ int main()
 }
 ```
 
-## Instruction set
+### Instruction set
 | Local                                   | Non-local                                |
 | --------------------------------------- | ---------------------------------------- |
 | ![](/embedded/_img/loop-disassembly.png) | ![](/embedded/_img/nonlocal-disassembly.png) |

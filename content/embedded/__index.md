@@ -22,14 +22,17 @@ tags:
 	* [Registers and memory](embedded/registers-memory.md)
 * [RISC and CISC architectures](embedded/risc-cisc.md)
 * [Clock gating](embedded/clock-gating.md)
+* [Interrupts](embedded/interrupts.md)
 
 ## Programming
 * [General considerations for non-linear control flow](embedded/nonlinear-control-flow.md)
 * [Preprocessor macros](embedded/preprocessor-macros.md)
+* [Stack](embedded/stack.md)
 
 ### Variables
 * [Local vs. non-local variables](embedded/local-vs-nonlocal-variables.md)
 * [Pointers](embedded/pointers.md)
+* [Arrays in C](embedded/arrays-in-c.md)
 * [Volatile variables](embedded/volatile.md)
 ## Sample programs
 Using TM4C123G.

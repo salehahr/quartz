@@ -8,7 +8,8 @@ tags:
 **Source**: [samek-embedded](bibliography/samek-embedded.md)
 
 # Pointers
-Variables which hold memory addresses.
+* Variables which hold memory addresses.
+* Can also be viewed as [arrays](embedded/arrays-in-c.md).
 
 ## Declaration
 ```

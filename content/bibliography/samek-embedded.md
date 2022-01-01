@@ -10,20 +10,24 @@ tags:
 by Miro Samek
 
 ## Math
-[Bit logic](embedded/bit-logic.md)
-[Integer overflow](embedded/integer-overflow.md)
+* [Bit logic](embedded/bit-logic.md)
+* [Integer overflow](embedded/integer-overflow.md)
 
 ## Basics
-[Registers and memory](embedded/registers-memory.md)
-[RISC and CISC architectures](embedded/risc-cisc.md)
-[Clock gating](embedded/clock-gating.md)
+* [Registers and memory](embedded/registers-memory.md)
+* [RISC and CISC architectures](embedded/risc-cisc.md)
+* [Clock gating](embedded/clock-gating.md)
+* [Interrupts](embedded/interrupts.md)
 
 ## Programming
-[General considerations for non-linear control flow](embedded/nonlinear-control-flow.md)
-[Local vs. non-local variables](embedded/local-vs-nonlocal-variables.md)
-[Pointers](embedded/pointers.md)
-[Preprocessor macros](embedded/preprocessor-macros.md)
-[Volatile](embedded/volatile.md)
+* [General considerations for non-linear control flow](embedded/nonlinear-control-flow.md)
+* [Preprocessor macros](embedded/preprocessor-macros.md)
+
+### Variables
+* [Local vs. non-local variables](embedded/local-vs-nonlocal-variables.md)
+* [Pointers](embedded/pointers.md)
+* [Arrays in C](embedded/arrays-in-c.md)
+* [Volatile](embedded/volatile.md)
 
 ## Sample programs
 Using TM4C123G.

@@ -33,15 +33,7 @@ int main()
 
 * In the compiled code, the execution of the while loop is different than that given by the code.
 * However, the effect of the loop on the calculation remains the same.
-* The compiler proposes this order of instructions for increased efficiency, e.g. the `BLT.N`instruction steps back to `++counter` instead of forwards, which allows the `PC` register to naturally increment without having to use another branch instruction.
-
-
-## Branching
-* `B.N` (Branch) instruction modifies `PC` so that it skips to a different instruction
-* `BLT.N` conditional branching
-	* only modifies `PC` if the `N` bit in the `APSR` is set.
-	* the instruction to jump to is encoded within the instruction itself: `0xFC = -4`, so jump back 4 instructions, from `0x8e` to `0x8a`
-* Branching results in pipeline delays --> solution e.g. loop unrolling
+* The compiler proposes this order of instructions for increased efficiency, e.g. the [`BLT.N`instruction](embedded/branch-instructions.md) steps back to `++counter` instead of forwards, which allows the `PC` register to naturally increment without having to use another branch instruction.
 
 ## Compare
 |        |                     |
