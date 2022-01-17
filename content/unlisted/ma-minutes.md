@@ -21,3 +21,5 @@ tags:
 * [2021-12-14](unlisted/minutes/2021-12/2021-12-14.md)
 	* [node-detection-model-first-run](unlisted/minutes/2021-12/2021-12-14-node-detection-model-first-run.md)
 * [2022-01-04](unlisted/minutes/2022-01-04.md)
+* [2022-01-11](unlisted/minutes/2022-01-11.md)
+* [2022-01-18](unlisted/2022-01-18.md)
