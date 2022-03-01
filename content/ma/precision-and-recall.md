@@ -40,3 +40,10 @@ $$\dfrac{\text{TP}}{\text{TP} + \text{FN}}$$
 	* reduces false negatives
 	* increases false positives
 * Always look at both precision and recall!
+
+---
+Helpful graphic  
+
+**Source**: https://en.wikipedia.org/wiki/Precision_and_recall
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/350px-Precisionrecall.svg.png)
