@@ -37,6 +37,7 @@ tags:
 	2. Domain knowledge for modifying VGG16 for edge extraction
 	3. Effect of batch size
 	4. Constructing the training/validation data (codifying of node types etc, ratio of adj/non-adj nodes)
+        * Order of nodes important 
 	5. Wie angepasst (the networks)
 	6. Data augmentation
 2. Results
