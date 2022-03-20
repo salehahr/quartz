@@ -40,5 +40,8 @@ tags:
         * Order of nodes important 
 	5. Wie angepasst (the networks)
 	6. Data augmentation
+	7. The problem with accuracy as a metric
+        * balanced classes
+        * imbalanced classes
 2. Results
 3. Conclusion
