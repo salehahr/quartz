@@ -6,7 +6,7 @@ tags:
   - machine-learning
 ---
 
-**See also**: [batching-in-ml](ma/batching-in-ml.md)]
+**See also**: [batching-in-ml](ma/batching-in-ml.md)
 
 **Source**: [google-ml-course](bibliography/google-ml-course.md)
 
