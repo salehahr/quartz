@@ -16,8 +16,8 @@ Coming soon
 ## Studienarbeit
 * [Permanent notes](permanent/_index.md)
 * [SLAM index](SLAM/slam_index.md)
-* [Rotations index](rotations/rotations-so3-group-index.md)
-* [Quaternion index](rotations/quaternion-index.md)
+* [Rotations index](math/rotations/rotations-so3-group-index.md)
+* [Quaternion index](math/rotations/quaternion-index.md)
 
 <pre></pre>
 * [Bibliography](bibliography/_index.md)
@@ -25,4 +25,5 @@ Coming soon
 
 <pre></pre>
 ## Other topics
+[Probability theory](math/statistics/probability-theory.md)
 [Embedded systems programming](embedded/__index.md)

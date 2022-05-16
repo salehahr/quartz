@@ -41,6 +41,19 @@ $$ F(x) = \max (0, x)$$
 * Often works better than the sigmoid function (from empirical findings)
 * This is probably due to the responsiveness of the ReLU function compared to the sigmoid (flat gradient on extreme ends of the sigmoid)
 
+
+### Notes
+(taken from class notes)
+* If no (nonlinear) activation functions are used:
+    * in the case of a FCN, all hidden layers are parametrised by weights and biases (input to output is mapped by an affine function $y = Wx + b$)
+    * if no nonlinearity is present between each mapping, the whole network then reduces to an affine mapping between the input and the output
+    * so no nonlinear activations effectively render all hidden layers useless, reduces the neural newrok to a one layer perceptron
+        $$ x_L = Wx_0 + b$$
+* Alternatively, if activation function $\phi$ available but no hidden layers:
+    $$x_L = x_1 = \phi( W_1x_0 + b_1 )$$
+  * network is not able to approximate a general nonlinear I/O mapping
+  * activation function $\phi$ is often monotone increasing, and this has no effect for maximising the network output in classification
+
 ## Training the neural network
 * Due to the incorporated nonlinearities and layers: non-convex optimisation
 * **Initialisation may be important**
