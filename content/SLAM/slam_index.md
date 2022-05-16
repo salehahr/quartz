@@ -64,7 +64,7 @@ has_content: True
 #### Filter-based
 - [Filter localisation methods](SLAM/filter-localisation-methods.md)
 - [Extended Kalman Filter](SLAM/extended-kalman-filter.md) - [basic ekf-for-slam](SLAM/basic-ekf-for-slam.md)
-- [rlabbe Kalman/Bayesian filters in Python](studienarbeit/rlabbe-kalman-bayesian-filters-in-python.md)
+- [rlabbe Kalman/Bayesian filters in Python](bibliography/rlabbe.md)
 
 #### Keyframe-based
 - [Some optimisation-based tightly-coupled multisensor SLAM algorithms](SLAM/algos-optimisation-based.md)

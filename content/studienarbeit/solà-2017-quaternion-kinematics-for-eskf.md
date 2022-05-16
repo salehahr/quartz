@@ -17,8 +17,8 @@ tags:
 
 ## Contents/Chapters
 
-1.  [Unit quaternions](rotations/unit-quaternions.md), [double cover](rotations/quaternion-double-cover.md)
-2.  Rotations, s. also [SO(3) 3D rotation group](rotations/so3-3d-rotation-group.md)
+1.  [Unit quaternions](math/rotations/unit-quaternions.md), [double cover](math/rotations/quaternion-double-cover.md)
+2.  Rotations, s. also [SO(3) 3D rotation group](math/rotations/so3-3d-rotation-group.md)
 3.  [Quaternion conventions](quaternion-conventions.md)
 4.  Perturbations, derivatives, integrals
 5.  [Error-State Kalman Filter](studienarbeit/50.5-error-state-kalman-filter.md) for IMU-driven systems

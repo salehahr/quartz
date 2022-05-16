@@ -22,6 +22,6 @@ tags:
 
 Uses: Hamilton [quaternion convention](studienarbeit/quaternion-conventions.md).
 
-* [Which orientation parametrisation to choose?](rotations/20.4-which-orientation-parametrisation.md)
+* [Which orientation parametrisation to choose?](math/rotations/20.4-which-orientation-parametrisation.md)
 * [50.5-error-state-kalman-filter](studienarbeit/50.5-error-state-kalman-filter.md)
 

@@ -14,7 +14,7 @@ tags:
 
 ## Note/Nomenclature:
 
-*   This book interpetes rotations/transformations in the [passive/alias](rotations/active-passive-or-alibi-alias-rotation-transformations.md) sense (I'm not a fan)
+*   This book interpetes rotations/transformations in the [passive/alias](math/rotations/active-passive-or-alibi-alias-transformations.md) sense (I'm not a fan)
 *   Quaternions in JPL [conventions](studienarbeit/quaternion-conventions.md) instead of Hamiltonian (not a fan of this either...)
 *   Rotation matrix = attitude matrix
 
@@ -27,21 +27,21 @@ tags:
 
 ## Quaternions
 * [Quaternion conventions](quaternion-conventions.md)
-* [Quaternion multiplication](rotations/quaternion-multiplication.md)
+* [Quaternion multiplication](math/rotations/quaternion-multiplication.md)
 
 ## Rotations
 "Euler's theorem:  any rotation is a rotation about a fixed axis"
 
 [orientation-parametrisations](studienarbeit/orientation-parametrisations.md)
-* [Euler axis/angle representation](rotations/euler-axis-angle-representation.md)
+* [Euler axis/angle representation](math/rotations/euler-axis-angle-representation.md)
 * [Rotation vector representation](rotation-vector-representation.md)
-* [Gibbs / Rodrigues parameter representation](rotations/gibbs-rodrigues-parameter.md)
+* [Gibbs / Rodrigues parameter representation](math/rotations/gibbs-rodrigues-parameter.md)
 * Modified Rodrigues parameters
 
-[Rotation error representation](rotations/rotation-error-representation.md)
+[Rotation error representation](math/rotations/rotation-error-representation.md)
 
 ## Filtering
-* [Which orientation parametrisation to choose?](rotations/20.4-which-orientation-parametrisation.md)
+* [Which orientation parametrisation to choose?](math/rotations/20.4-which-orientation-parametrisation.md)
 * [Additive quaternion filtering](studienarbeit/50.4.1-additive-quaternion-filtering.md)
 * [Error-State Kalman Filter](studienarbeit/50.5-error-state-kalman-filter.md) / [multiplicative-quaternion-filtering](studienarbeit/50.4.2-multiplicative-quaternion-filtering-mekf.md)
 * [Observation-of-the-error-state-filter-correction](studienarbeit/50.7.1-observation-of-the-error-state-filter-correction.md)

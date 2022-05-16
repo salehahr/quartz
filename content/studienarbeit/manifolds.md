@@ -24,4 +24,4 @@ An $n$-dim manifold is a a set $M$ which is locally homeomorphic to $\mathbb{R}^
 * Smooth map: all partial derivatives of $f$, of all orders, exist and are continuous
 * Diffeomorphism: smooth map and with all partial derivatives of $\text{inv}(f)$, of all orders, exist and are continuous
 
-A group that is a differentiable manifold is called a [Lie group](rotations/lie-group-lie-algebra.md).
+A group that is a differentiable manifold is called a [Lie group](math/rotations/lie-group-lie-algebra.md).

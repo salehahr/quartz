@@ -5,7 +5,7 @@ tags:
   - -sa/processed
 ---
 
-Source: [rlabbe](studienarbeit/rlabbe-kalman-bayesian-filters-in-python.md)
+Source: [rlabbe](bibliography/rlabbe.md)
 
 "Two sensors are better than one, even if one is less accurate than the other."
 

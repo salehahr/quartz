@@ -38,10 +38,10 @@ Introduction
 [Handling the computational complexity of optimisation-based SLAM](handling the-computational-complexity-of-optimisation-based-slam.md)
 
 Preliminaries
-[SO(3) 3D rotation group](so(3) 3d rotation group.md), [lie group,-lie-algebra](rotations/lie-group-lie-algebra.md)
-  [Exponential map](rotations/exponential-map.md)
+[SO(3) 3D rotation group](so(3) 3d rotation group.md), [lie group,-lie-algebra](math/rotations/lie-group-lie-algebra.md)
+  [Exponential map](math/rotations/exponential-map.md)
 
-  [Logarithm map](rotations/logarithm-map.md)
+  [Logarithm map](math/rotations/logarithm-map.md)
 
 [SE(3) Special Euclidian Group](se(3)-special-euclidian-group.md)
 [Gauss-Newton Method on Manifold](gauss-newton-method-on-manifold.md)

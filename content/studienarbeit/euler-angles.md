@@ -8,7 +8,7 @@ tags:
   - -published
 ---
 
-**Parents**: [rotations-so3-group-index](rotations/rotations-so3-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)  
+**Parents**: [rotations-so3-group-index](math/rotations/rotations-so3-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)  
 
 **Source**: [Phil's Lab](bibliography/phils-lab-sensor-fusion.md)
 * Three angles that describe the orientation of an object w.r.t. a *fixed* coordinate system
@@ -21,14 +21,14 @@ tags:
 ## Possible representations
 
 *   Proper Euler angles (e.g. $zxz$) vs Tait-Bryan (e.g. $xyz$, $zyx$)
-*   [Intrinsic vs. extrinsic rotations](rotations/intrinsic-vs-extrinsic-rotations.md)
+*   [Intrinsic vs. extrinsic rotations](math/rotations/intrinsic-vs-extrinsic-rotations.md)
 	*   Extrinsic rotations (around fixed CS $xyz$)
 	*   Intrinsic rotations (around body CS $XYZ = x''' y''' z'''$)
 
 ## As a rotation matrix
 $$R = X(\alpha) Y(\beta) Z(\gamma)$$
 
-This means either: (s. [Intrinsic vs extrinsic rotations](rotations/intrinsic-vs-extrinsic-rotations.md))
+This means either: (s. [Intrinsic vs extrinsic rotations](math/rotations/intrinsic-vs-extrinsic-rotations.md))
 
 *   extrinsic rotations about z -> y -> x / yaw pitch roll
 *   intrinsic rotations about x -> y' -> z'' = Z = z'''
@@ -45,7 +45,7 @@ Table of Euler rotation matrices (RH, active, intrinsic):
 
 | Proper Euler | Tait-Bryan |
 | --- | --- |
-|     | ![unknown_filename.1.png](./_resources/euler_angles.resources/unknown_filename.1.png)<br>s. derivation here:  [bryan-tait-kardanwinkel](rotations/bryan-tait-kardanwinkel.md) |
+|     | ![unknown_filename.1.png](./_resources/euler_angles.resources/unknown_filename.1.png)<br>s. derivation here:  [bryan-tait-kardanwinkel](math/rotations/bryan-tait-kardanwinkel.md) |
 |     | ![unknown_filename.png](./_resources/Euler_angles.resources/unknown_filename.png)<br>intrinsic yaw pitch roll |
 
 ---

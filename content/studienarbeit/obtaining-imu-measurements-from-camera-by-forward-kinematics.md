@@ -9,7 +9,7 @@ tags:
 ---
 
 Parent: [SA TODO](sa-todo.md)
-Backlinks: [Thesis restructure](private/thesis-sa/thesis.md)
+Backlinks: [Thesis restructure](private/thesis-sa.md)
 
 Done:
 - [x] [reverse-fwkin](reverse-fwkin.md) (scrapped)

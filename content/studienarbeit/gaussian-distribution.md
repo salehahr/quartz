@@ -7,8 +7,9 @@ tags:
   - -sa/to-be-processed
 ---
 
-Backlinks: [Limitations of the discrete Bayes filter](limitations-of-the-discrete-bayes-filter.md)
-Source: [rlabbe Kalman/Bayesian filters in Python](rlabbe-kalman_bayesian-filters-in-python.md)
+**Parent**: [Probability theory](math/statistics/probability-theory.md)  
+**Backlinks**: [Limitations of the discrete Bayes filter](limitations-of-the-discrete-bayes-filter.md)  
+**Source**: [rlabbe](bibliography/rlabbe.md)
 
 a.k.a. Normal distribution
 Unimodal, continuous probability distribution function (pdf)

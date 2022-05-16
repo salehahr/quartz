@@ -6,8 +6,8 @@ tags:
   - filters/bayesian-filter
 ---
 
-Parent: [Discrete Bayesian filter](discrete-bayesian-filter.md)
-Source: [rlabbe Kalman/Bayesian filters in Python](rlabbe-kalman_bayesian-filters-in-python.md)
+Parent: [Discrete Bayesian filter](discrete-bayesian-filter.md)  
+**Source**: [rlabbe](bibliography/rlabbe.md)
 
 Limitations of the discrete Bayes filter
 
@@ -24,5 +24,5 @@ Limitations of the discrete Bayes filter
     *   But not always a good things either, sometimes not a realistic representation of the reality (e.g. 40% in this location, 30% in the other location)
 *   Requires measurement of the change in state (dog tracking example assumes movement by 1 unit)
 
-We want a unimodal, continuous filter --> achieve this by using [Gaussian distributions](http://www.evernote.com/shard/s484/nl/217355218/12fcf819-bea6-4160-9bf0-fd22e8f59cb1).
+We want a unimodal, continuous filter --> achieve this by using [Gaussian distributions](studienarbeit/gaussian-distribution.md)
 
