@@ -11,7 +11,7 @@ tags:
 
 Group of rigid motion in 3D.  
 Consists of 
-* a rotation in [SO(3)](rotations/so3-3d-rotation-group.md)
+* a rotation in [SO(3)](math/rotations/so3-3d-rotation-group.md)
 * a translation in $\mathbb{R}^3$
 
 $$\begin{aligned}

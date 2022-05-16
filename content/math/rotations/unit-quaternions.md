@@ -7,8 +7,8 @@ tags:
   - -published
 ---
 
-**Parent**: [Quaternion index](rotations/quaternion-index.md), [orientation-parametrisations](orientation-parametrisations.md)  
-**See also**: [quaternion-conventions](studienarbeit/quaternion-conventions.md), [quaternion double cover](rotations/quaternion-double-cover.md)
+**Parent**: [Quaternion index](math/rotations/quaternion-index.md), [orientation-parametrisations](orientation-parametrisations.md)  
+**See also**: [quaternion-conventions](studienarbeit/quaternion-conventions.md), [quaternion double cover](math/rotations/quaternion-double-cover.md)
 
 **Source**: [Solà 2017](solà-2017-quaternion-kinematics-for-eskf.md)
 
@@ -32,5 +32,5 @@ $$
 with
 * $\mathbf{u}$ as a unit vector
 * $\theta$ is the angle between $\mathbf{q}$ and the
-	[identity quaternion](rotations/identity-quaternion.md)
+	[identity quaternion](math/rotations/identity-quaternion.md)
 	$\mathbf{q}_I = \left[\begin{array}{cccc}1 & 0 & 0 & 0\end{array}\right]^\text{T}$

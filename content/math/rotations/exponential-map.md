@@ -9,7 +9,7 @@ tags:
   - -published
 ---
 
-**Parents**: [Quaternion index](rotations/quaternion-index.md), [Rotations / SO(3) group index](rotations-so3-group-index.md)
+**Parents**: [Quaternion index](math/rotations/quaternion-index.md), [Rotations / SO(3) group index](math/rotations/rotations-so3-group-index.md)
 
 ## Notation
 
@@ -40,7 +40,7 @@ $$\begin{alignedat}{3}
 **Source**: [Forster 2017 IMU Preintegration](forster-2017-imu-preintegration.md)
 
 ## At the identity 
-Maps an element of the [Lie algebra](lie-group-lie-algebra.md)
+Maps an element of the [Lie algebra](math/rotations/lie-group-lie-algebra.md)
 ($\phi^\wedge \in \mathfrak{so}(3)$, a skew symmetric matrix)
 to a rotation
 ![unknown_filename.1.png](studienarbeit/_resources/Exponential_map.resources/unknown_filename.1.png)

@@ -6,7 +6,7 @@ tags:
   - math/quaternions
 ---
 
-**Parent**: [Quaternion index](rotations/quaternion-index.md)  
+**Parent**: [Quaternion index](math/rotations/quaternion-index.md)  
 **Source**: [Solà 2017](solà-2017-quaternion-kinematics-for-eskf.md)
 
 $$\mathbf{q}_I = 1 = \left[ \begin{array}{c} 1\\ \mathbf{0}_3 \end{array} \right]$$

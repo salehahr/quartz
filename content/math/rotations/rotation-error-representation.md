@@ -8,8 +8,8 @@ tags:
   - -published
 ---
 
-**Parents**: [rotations-so3-group-index](rotations/rotations-so3-group-index.md), [quaternion-index](rotations/quaternion-index.md)  
-**See also**: [Orientation parametrisations](orientation-parametrisations.md), [which orientation parametrisation to-choose?](rotations/20.4-which-orientation-parametrisation.md)
+**Parents**: [rotations-so3-group-index](math/rotations/rotations-so3-group-index.md), [quaternion-index](math/rotations/quaternion-index.md)  
+**See also**: [Orientation parametrisations](orientation-parametrisations.md), [which orientation parametrisation to-choose?](math/rotations/20.4-which-orientation-parametrisation.md)
 
 **Source**: [Markley 2014](bibliography/markley-2014.md)
 
@@ -25,7 +25,7 @@ In terms of...
 Rotation vector
 ![unknown_filename.2.png](studienarbeit/_resources/Rotation_error_representation.resources/unknown_filename.2.png)
 
-[Quaternions](rotations/unit-quaternions.md)
+[Quaternions](math/rotations/unit-quaternions.md)
 ![unknown_filename.png](studienarbeit/_resources/Rotation_error_representation.resources/unknown_filename.png)
 
 Euler angles
@@ -33,5 +33,5 @@ Euler angles
 
 Use upper sign  if {i,j,k} even permutation of {1,2,3}, lower sign otherwise
 
-[gibbs-rodrigues-parameter](rotations/gibbs-rodrigues-parameter.md). MRPs. etc.
+[gibbs-rodrigues-parameter](math/rotations/gibbs-rodrigues-parameter.md). MRPs. etc.
 

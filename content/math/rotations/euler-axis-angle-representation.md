@@ -6,7 +6,7 @@ tags:
   - math/rotations
 ---
 
-**Parents**: [rotations-so3-group-index](rotations/rotations-so3-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)    
+**Parents**: [rotations-so3-group-index](math/rotations/rotations-so3-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)    
 **See also**: [Rotation vector representation](rotation-vector-representation.md)  
 
 **Source**: [Markley 2014](bibliography/markley-2014.md)

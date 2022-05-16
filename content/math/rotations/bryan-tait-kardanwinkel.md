@@ -6,7 +6,7 @@ tags:
   - math/rotations
 ---
 
-**Parent**: [rotations-so3-group-index](rotations/rotations-so3-group-index.md)  
+**Parent**: [rotations-so3-group-index](math/rotations/rotations-so3-group-index.md)  
 **Source**: [Woernle](woernle-mehrkoerpersysteme.md)
 
 ## Rotation angle nomenclature

@@ -6,11 +6,11 @@ tags:
   - math/rotations
 ---
 
-**Parents**: [rotations-so3-group-index](rotations/rotations-so3-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)
+**Parents**: [rotations-so3-group-index](math/rotations/rotations-so3-group-index.md), [orientation-parametrisations](orientation-parametrisations.md)
 
 **Source**: [Markley 2014](bibliography/markley-2014.md)
 
-Combine the [Euler axis/angle](rotations/euler-axis-angle-representation.md) into a three component rotation vector
+Combine the [Euler axis/angle](math/rotations/euler-axis-angle-representation.md) into a three component rotation vector
 $$ \mathbf{\theta} \equiv \theta \mathbf{e}$$
 
 Convenient for analysis, but not for computation

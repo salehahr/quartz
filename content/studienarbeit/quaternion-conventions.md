@@ -7,7 +7,7 @@ tags:
   - -published
 ---
 
-**Parent**: [Quaternion index](rotations/quaternion-index.md)  
+**Parent**: [Quaternion index](math/rotations/quaternion-index.md)  
 **Source**: [Solà 2017 Quaternion kinematics for ESKF](solà-2017-quaternion-kinematics-for-eskf.md)
 
 ![unknown_filename.png](./_resources/Quaternion_conventions.resources/unknown_filename.png)
@@ -16,7 +16,7 @@ tags:
 
 **Source:** \[[Wikipedia](http://en.wikipedia.org/wiki/quaternions_and_spatial_rotation)\], [markley-2014](bibliography/markley-2014.md)
 
-For [quaternion multiplication](rotations/quaternion-multiplication.md): change the order to transform between conventions
+For [quaternion multiplication](math/rotations/quaternion-multiplication.md): change the order to transform between conventions
 ![unknown_filename.1.png](./_resources/Quaternion_conventions.resources/unknown_filename.1.png)
 
 | Hamilton | Shuster |

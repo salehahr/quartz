@@ -10,7 +10,7 @@ tags:
 
 # Lie group
 
-**Parent**: [Rotations / SO(3) group index](rotations-so3-group-index.md)  
+**Parent**: [Rotations / SO(3) group index](math/rotations/rotations-so3-group-index.md)  
 **Source**: <http://www.seas.upenn.edu/~meam620/slides/kinematicsI.pdf>
 
 A group that is a differentiable (smooth) [manifold](manifolds.md) is called a Lie group.
@@ -25,7 +25,7 @@ Lie algebra $\mathfrak{so}(3)$
 *   Every Lie group has an associated Lie algebra
 *   Lie algebra: linear space with same dimension as the Lie group
 *   Consists of all skew-symmetric 3x3 matrices
-*   Elements of the Lie algebra $\mathfrak{so}(3)$ are elements of the tangent space of the manifold SO(3)/Lie group at the [identity element](rotations/identity-of-a-group.md).
+*   Elements of the Lie algebra $\mathfrak{so}(3)$ are elements of the tangent space of the manifold SO(3)/Lie group at the [identity element](math/rotations/identity-of-a-group.md).
 
 ---
 
@@ -44,6 +44,6 @@ $$
 ![lie-group-maps](/_img/lie-group-maps.png)
 
 **Mappings**:
-* [Exponential map](rotations/exponential-map.md)
-* [Logarithm map](rotations/logarithm-map.md)
+* [Exponential map](math/rotations/exponential-map.md)
+* [Logarithm map](math/rotations/logarithm-map.md)
 

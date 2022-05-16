@@ -8,12 +8,12 @@ tags:
   - math/quaternions
 ---
 
-**Parents**: [Quaternion index](rotations/quaternion-index.md), [rotations / so(3) group-index](rotations-so3-group-index.md)  
+**Parents**: [Quaternion index](math/rotations/quaternion-index.md), [rotations / so(3) group-index](math/rotations/rotations-so3-group-index.md)  
 Backlinks: [Linearisation of an orientation in SO(3)](linearisation-of-an-orientation-in-so-3.md)
 
 **Source**: [Forster 2017 IMU Preintegration](forster-2017-imu-preintegration.md)
 
-Maps a rotation matrix $R$ in [SO(3)](rotations/so3-3d-rotation-group.md) to a skew-symmetric matrix ([Lie algebra](rotations/lie-group-lie-algebra.md))
+Maps a rotation matrix $R$ in [SO(3)](math/rotations/so3-3d-rotation-group.md) to a skew-symmetric matrix ([Lie algebra](math/rotations/lie-group-lie-algebra.md))
 ![unknown_filename.png](studienarbeit/_resources/Logarithm_map.resources/unknown_filename.png)
 
 Perturbations, first order approximation

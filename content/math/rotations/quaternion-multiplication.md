@@ -7,7 +7,7 @@ tags:
   - -published
 ---
 
-**Parent**: [Quaternion index](rotations/quaternion-index.md)  
+**Parent**: [Quaternion index](math/rotations/quaternion-index.md)  
 **Source**: [Solà 2017 Quaternion kinematics for ESKF](solà-2017-quaternion-kinematics-for-eskf.md)
 
 Here: Hamiltonian convention, s. [Quaternion conventions](quaternion-conventions.md)

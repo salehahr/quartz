@@ -7,13 +7,13 @@ tags:
   - -published
 ---
 
-**Parents**: [quaternion-index](rotations/quaternion-index.md), [rotations-so3-group-index](rotations/rotations-so3-group-index.md)  
+**Parents**: [quaternion-index](math/rotations/quaternion-index.md), [rotations-so3-group-index](math/rotations/rotations-so3-group-index.md)  
 **See also**: [orientation-parametrisations](studienarbeit/orientation-parametrisations.md)
 
 
 **Source**: [Markley 2014](bibliography/markley-2014.md)
 
-# [Unit quaternion](rotations/unit-quaternions.md) to rotation matrix
+# [Unit quaternion](math/rotations/unit-quaternions.md) to rotation matrix
 
 ![unknown_filename.png](studienarbeit/_resources/Quaternion_to_rotation_matrix.resources/unknown_filename.png)
 

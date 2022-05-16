@@ -8,7 +8,7 @@ tags:
   - -published
 ---
 
-**Parent**: [Rotations / SO(3) group index](rotations-so3-group-index.md)  
+**Parent**: [Rotations / SO(3) group index](math/rotations/rotations-so3-group-index.md)  
 **See also**: [Orientation parametrisations](orientation-parametrisations.md), [Linearisation of an orientation](studienarbeit/linearisation-of-an-orientation-in-so-3.md), [Solà 2017 quaternion kinematics for eskf](solà-2017-quaternion-kinematics-for-eskf.md)
 
 **Source**: [MKok 2017](studienarbeit/mkok-2017.md)
@@ -27,7 +27,7 @@ The SO(3) group
 *   Group of all rotations about the origin of the 3D space (Euclidian space, $\mathbb{R}^3$)
 *   Has a natural structure as a smooth [manifold](studienarbeit/manifolds.md).
     *   Group operations on the manifold are smoothly differentiable
-    *   Is therefore a [Lie group](rotations/lie-group-lie-algebra.md)
+    *   Is therefore a [Lie group](math/rotations/lie-group-lie-algebra.md)
 *   Compact, dim = 3
 
 Rotations in general
@@ -39,7 +39,7 @@ Rotations in general
 * * *
 
 **Source**: [Forster 2017 IMU Preintegration](forster-2017-imu-preintegration.md)  
-**See**: [Lie group](rotations/lie-group-lie-algebra.md)
+**See**: [Lie group](math/rotations/lie-group-lie-algebra.md)
 
 Uncertainty description in SO(3)
 
